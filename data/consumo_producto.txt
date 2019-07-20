@@ -1,0 +1,2469 @@
+piramide_1;piramide_2;mes;año;ues;producto;consumo
+6 Otros;No Afiliada;9;2018;RyT;Club El Cubo;32349343
+4 Micro;4.1 Estándar;2;2018;RyT;Club El Cubo;10011829
+6 Otros;No Afiliada;6;2018;RyT;Hotel Peñalisa;14154101
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;MS;SUPERMERCADOS;1229773
+4 Micro;4.1 Estándar;10;2018;RyT;Club El Cubo;5297926
+4 Micro;4.1 Estándar;3;2018;RyT;Club El Cubo;62775344
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Hotel Paipa;23566047
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Programas Deportivos;130200
+2 Emp Medio;2.2 Silver;6;2018;RyT;Club Bellavista;19577617
+1 Emp Grandes;1.2 Premium;1;2018;AyB;CATERING;1550000
+2 Emp Medio;2.2 Silver;11;2018;RyT;Programas Deportivos;55101813
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Club Bellavista;28125299
+2 Emp Medio;2.1 Gold;12;2018;RyT;Club la Colina;50404121
+6 Otros;No Afiliada;12;2017;MS;SUPERMERCADOS;12750525238
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Programas Deportivos;17274866
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Club la Colina;55865684
+2 Emp Medio;2.1 Gold;12;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1048553
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Otros;2685428
+3 Empresas Pymes;3.1 VIP;5;2018;MS;SUPERMERCADOS;745109830
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Hotel Peñalisa;587555
+1 Emp Grandes;1.1 Platinum;11;2018;AyB;CATERING;10989020
+1 Emp Grandes;1.2 Premium;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1528385
+2 Emp Medio;2.2 Silver;1;2018;MS;DROGUERIAS;562062144
+3 Empresas Pymes;3.1 VIP;9;2018;Educación y Cultura;TEATRO;35814347,56
+6 Otros;No Afiliada;11;2018;RyT;Otros;12450579
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Programas Deportivos;50420
+4 Micro;4.5 Transaccional;2;2017;MS;DROGUERIAS;74524945
+4 Micro;4.5 Transaccional;9;2017;MS;DROGUERIAS;83479569
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;Educación y Cultura;Campus;26125128
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Club Bellavista;5325459
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Club El Cubo;11552348
+4 Micro;4.1 Estándar;7;2018;MS;SUPERMERCADOS;74475442
+2 Emp Medio;2.2 Silver;8;2018;RyT;Hotel Paipa;3042924
+4 Micro;4.5 Transaccional;12;2017;MS;#;8003
+3 Empresas Pymes;3.1 VIP;2;2018;MS;SUPERMERCADOS;480750782
+4 Micro;4.5 Transaccional;3;2017;Vivienda;SubsidioEntregado;398162892
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Hotel Alcaravan;419444
+6 Otros;No Afiliada;11;2018;RyT;Hotel Bosques de Athan;8010372
+1 Emp Grandes;1.1 Platinum;1;2018;Educación y Cultura;ARTES;100570171
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Otros;24026421
+5 Micro;5.1 Colsubsidio;9;2018;AyB;CATERING;8574441
+2 Emp Medio;2.2 Silver;7;2018;Salud;CHEQUEOS;3329786
+2 Emp Medio;2.2 Silver;12;2018;RyT;Club Calle 195;11374789
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2018;MS;DROGUERIAS;2295385
+2 Emp Medio;2.2 Silver;3;2018;RyT;Eventos y Convenciones;19701004
+2 Emp Medio;2.2 Silver;7;2018;Salud;;41616400
+2 Emp Medio;2.2 Silver;3;2018;MS;SUPERMERCADOS;5364643553
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Club El Cubo;28412362
+6 Otros;No afiliada;12;2017;MS;SUPERMERCADOS;134952933
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Eventos y Convenciones;50791710
+4 Micro;4.6 Transaccional - Facultativo;1;2018;MS;DROGUERIAS;91744543
+5 Micro;5.1 Colsubsidio;6;2018;RyT;Club El Cubo;6334454
+4 Micro;4.6 Transaccional - Facultativo;11;2018;MS;DROGUERIAS;133230
+2 Emp Medio;2.2 Silver;5;2018;RyT;Programas Deportivos;18237099
+4 Micro;4.7 Transaccional - Independiente;6;2017;MS;SUPERMERCADOS;776498
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2017;RyT;;5042
+2 Emp Medio;2.1 Gold;3;2018;RyT;Club Bellavista;6364914
+4 Micro;4.5 Transaccional;11;2018;Salud;;3118200
+3 Empresas Pymes;3.2 VIP Estándar;2;2017;MS;SUPERMERCADOS;4091612
+1 Emp Grandes;1.2 Premium;7;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;4487440
+1 Emp Grandes;1.2 Premium;3;2018;Salud;;52684800
+1 Emp Grandes;1.2 Premium;2;2018;Educación y Cultura;EDUCACION INICIAL;40176621,73
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2018;MS;DROGUERIAS;1448139
+3 Empresas Pymes;3.2 VIP Estándar;6;2017;MS;SUPERMERCADOS;697669
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2018;RyT;Club la Colina;470672
+4 Micro;4.5 Transaccional;6;2018;Educación y Cultura;Campus;13175000
+2 Emp Medio;2.2 Silver;9;2018;RyT;Hotel Paipa;6025448
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Hotel Paipa;8159791
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Eventos y Convenciones;127233707
+2 Emp Medio;2.1 Gold;1;2018;AyB;CATERING;17934323
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Club Bellavista;28387435
+6 Otros;No Afiliada;7;2017;RyT;;2957321365
+1 Emp Grandes;1.1 Platinum;8;2018;AyB;CATERING;62859462
+6 Otros;No Afiliada;5;2018;RyT;Hotel Alcaravan;2425653
+6 Otros;No Afiliada;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;20418562
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Programas Deportivos;33141262
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Club la Colina;9255135
+6 Otros;No Afiliada;2;2018;MS;SUPERMERCADOS;1517151261
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Club Calle 195;16743943
+6 Otros;No Afiliada;11;2018;RyT;Club Bellavista;105461764
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Hotel Bosques de Athan;611665
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;Salud;;25221050
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Club la Colina;17424154
+4 Micro;4.5 Transaccional;11;2017;Vivienda;Fecha Entrega;558456000
+4 Micro;4.5 Transaccional;6;2017;Vivienda;SubsidioEntregado;201904363
+2 Emp Medio;2.2 Silver;6;2018;MS;SUPERMERCADOS;5284904955
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2018;MS;DROGUERIAS;2868874
+4 Micro;4.2 Trans. Mas de 100 Trab.;11;2017;Vivienda;SubsidioEntregado;17705208
+4 Micro;4.7 Transaccional - Independiente;1;2017;MS;SUPERMERCADOS;979481
+6 Otros;No Afiliada;9;2018;AyB;CATERING;35699574
+1 Emp Grandes;1.2 Premium;8;2018;MS;DROGUERIAS;43497175
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2017;Vivienda;SubsidioEntregado;74212430
+4 Micro;4.1 Estándar;6;2018;RyT;Club Bellavista;5397259
+4 Micro;4.1 Estándar;4;2018;AyB;CATERING;1719496
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Otros;4408251
+1 Emp Grandes;1.2 Premium;7;2018;AyB;SALONES CALLE 26;934471
+3 Empresas Pymes;3.2 VIP Estándar;7;2017;MS;SUPERMERCADOS;900921
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;MS;DROGUERIAS;2663364
+2 Emp Medio;2.1 Gold;7;2018;RyT;Piscilago;29950818
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Club Bellavista;8970153
+4 Micro;4.6 Transaccional - Facultativo;4;2018;MS;SUPERMERCADOS;2133924186
+6 Otros;No Afiliada;7;2018;AyB;SALONES CALLE 26;2685923
+1 Emp Grandes;1.1 Platinum;4;2018;Educación y Cultura;TEATRO;57597255,45
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2017;MS;DROGUERIAS;74601
+3 Empresas Pymes;3.2 VIP Estándar;9;2017;Vivienda;SubsidioAsignado;44263020
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;MS;DROGUERIAS;5159445
+2 Emp Medio;2.2 Silver;10;2018;MS;SUPERMERCADOS;13459343136
+4 Micro;4.5 Transaccional;9;2018;RyT;Club la Colina;3839676
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Hotel Peñalisa;41767482
+2 Emp Medio;2.2 Silver;4;2018;RyT;Club Bellavista;5479667
+2 Emp Medio;2.1 Gold;5;2018;Salud;CHEQUEOS;7795684
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Club la Colina;76359356
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Club la Colina;17340015
+1 Emp Grandes;1.2 Premium;1;2018;MS;DROGUERIAS;18919069
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;MS;SUPERMERCADOS;192686415
+4 Micro;4.5 Transaccional;10;2018;RyT;Programas Deportivos;43358184
+1 Emp Grandes;1.2 Premium;5;2018;AyB;CATERING;54670171
+3 Empresas Pymes;3.2 VIP Estándar;11;2017;Vivienda;SubsidioEntregado;44263020
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;MS;DROGUERIAS;5383520
+2 Emp Medio;2.2 Silver;10;2018;RyT;Club Bellavista;45918429
+4 Micro;4.7 Transaccional - Independiente;1;2018;RyT;Club El Cubo;-144094
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;Salud;;15606800
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Club El Cubo;26546131
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;Salud;;20190250
+4 Micro;4.8 Transaccional - Pensionado;8;2018;RyT;Programas Deportivos;30084
+4 Micro;4.8 Transaccional - Pensionado;2;2018;MS;SUPERMERCADOS;1334691
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Piscilago;11674611
+6 Otros;No Afiliada;4;2018;RyT;Hotel Peñalisa;18251635
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Club El Cubo;21230532
+4 Micro;4.5 Transaccional;2;2018;Educación y Cultura;Teatro;0
+2 Emp Medio;2.1 Gold;2;2018;MS;SUPERMERCADOS;364153507
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Club Calle 195;4361053
+2 Emp Medio;2.2 Silver;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;5279671,81
+2 Emp Medio;2.1 Gold;12;2018;RyT;Otros;239201052
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Programas Deportivos;65583335
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Piscilago;195303124
+4 Micro;4.5 Transaccional;2;2018;RyT;Eventos y Convenciones;12631500
+3 Empresas Pymes;3.1 VIP;6;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;3578000
+4 Micro;4.7 Transaccional - Independiente;10;2018;RyT;Programas Deportivos;64000
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;AyB;CATERING;15680151
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2017;MS;DROGUERIAS;2399222
+4 Micro;4.5 Transaccional;8;2017;MS;DROGUERIAS;98263134
+2 Emp Medio;2.1 Gold;10;2018;AyB;CATERING;99131561
+6 Otros;No Afiliada;4;2018;RyT;Piscilago;281478517
+1 Emp Grandes;1.2 Premium;11;2018;Salud;;14373800
+1 Emp Grandes;1.1 Platinum;5;2018;Educación y Cultura;ARTES;4307300
+4 Micro;4.5 Transaccional;6;2018;RyT;Club El Cubo;54976651
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Hotel Bosques de Athan;5780776
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Hotel Paipa;0
+6 Otros;No afiliada;9;2017;MS;SUPERMERCADOS;104176533
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Club Bellavista;53649435
+2 Emp Medio;2.2 Silver;9;2017;Vivienda;SubsidioEntregado;18442925
+6 Otros;No Afiliada;1;2018;RyT;Club Bellavista;-3119157
+6 Otros;No Afiliada;6;2018;RyT;Hotel Paipa;7934432
+4 Micro;4.1 Estándar;6;2018;MS;SUPERMERCADOS;41099798
+2 Emp Medio;2.2 Silver;12;2018;Educación y Cultura;Campus;26802500
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;Salud;;24572900
+6 Otros;No afiliada;1;2017;MS;DROGUERIAS;9507612
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;MS;SUPERMERCADOS;87537735
+6 Otros;No Afiliada;9;2017;RyT;;3184570704
+4 Micro;4.8 Transaccional - Pensionado;10;2017;MS;DROGUERIAS;7582129
+4 Micro;4.1 Estándar;2;2018;RyT;Club Bellavista;3083835
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2018;Salud;;29900
+2 Emp Medio;2.2 Silver;1;2018;RyT;Club la Colina;4199924
+4 Micro;4.5 Transaccional;7;2017;Vivienda;Fecha Promesa;2167914000
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Hotel Paipa;22527379
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Club El Cubo;12665885
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Hotel Alcaravan;-327588
+4 Micro;4.1 Estándar;10;2018;Educación y Cultura;Teatro;13760400
+3 Empresas Pymes;3.1 VIP;10;2018;Salud;CHEQUEOS;2951607
+4 Micro;4.1 Estándar;2;2018;RyT;Piscilago;1256500
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Hotel Peñalisa;0
+6 Otros;No Afiliada;5;2017;Vivienda;Fecha Opcion;3255380304
+4 Micro;4.5 Transaccional;8;2018;RyT;Club El Cubo;8183116
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Club la Colina;61451467
+3 Empresas Pymes;3.1 VIP;9;2018;Educación y Cultura;C+T;50959370
+4 Micro;4.1 Estándar;9;2018;RyT;Club Bellavista;1554929
+1 Emp Grandes;1.1 Platinum;8;2018;MS;SUPERMERCADOS;116433302
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Club la Colina;5529881
+6 Otros;No Afiliada;5;2018;RyT;Piscilago;236624974
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Club El Cubo;110269182
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Club Calle 195;1010412
+2 Emp Medio;2.2 Silver;11;2018;RyT;Club la Colina;47540448
+2 Emp Medio;2.2 Silver;8;2018;RyT;Club El Cubo;27307932
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Hotel Bosques de Athan;611665
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Programas Deportivos;13862516
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Piscilago;972593
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2018;RyT;Club la Colina;3243109
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2017;Vivienda;Fecha Entrega;90209000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Hotel Bosques de Athan;4517255
+5 Micro;5.1 Colsubsidio;5;2018;RyT;Club la Colina;7875215
+4 Micro;4.1 Estándar;11;2018;MS;DROGUERIAS;107938427
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Club la Colina;6167603
+4 Micro;4.8 Transaccional - Pensionado;4;2017;MS;SUPERMERCADOS;208992
+2 Emp Medio;2.2 Silver;6;2018;Educación y Cultura;Teatro;12418860
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2018;MS;DROGUERIAS;2214205
+6 Otros;No Afiliada;5;2018;MS;SUPERMERCADOS;1771579006
+5 Micro;5.1 Colsubsidio;8;2018;RyT;Club la Colina;3673761
+6 Otros;No Afiliada;7;2018;RyT;Otros;7078564
+3 Empresas Pymes;3.1 VIP;7;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;3570000
+4 Micro;4.1 Estándar;7;2018;RyT;Piscilago;4164644
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Hotel Bosques de Athan;587555
+4 Micro;4.1 Estándar;12;2018;RyT;Programas Deportivos;2e+05
+1 Emp Grandes;1.1 Platinum;11;2018;MS;DROGUERIAS;1644753
+2 Emp Medio;2.2 Silver;2;2018;MS;SUPERMERCADOS;5231896697
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Hotel Paipa;2952918
+2 Emp Medio;2.1 Gold;4;2018;Salud;;14089200
+2 Emp Medio;2.2 Silver;12;2018;RyT;Hotel Peñalisa;-138908
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Programas Recreativos;7086250
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Hotel Bosques de Athan;1861274
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Hotel Paipa;0
+4 Micro;4.1 Estándar;9;2017;Vivienda;SubsidioEntregado;41367300
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2018;RyT;Piscilago;9519116
+1 Emp Grandes;1.2 Premium;10;2018;MS;DROGUERIAS;31778208
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Otros;1294204
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Eventos y Convenciones;3948000
+3 Empresas Pymes;3.1 VIP;7;2017;MS;DROGUERIAS;81100
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Hotel Paipa;11306954
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Otros;1227530
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Otros;15043404
+3 Empresas Pymes;3.1 VIP;11;2017;Vivienda;SubsidioAsignado;22131510
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Programas Deportivos;43569997
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Eventos y Convenciones;772906
+1 Emp Grandes;1.2 Premium;1;2018;Educación y Cultura;LEO;5544000
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Eventos y Convenciones;8921352
+2 Emp Medio;2.2 Silver;12;2018;RyT;Eventos y Convenciones;1040377939
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Eventos y Convenciones;3869355
+4 Micro;4.1 Estándar;4;2017;MS;DROGUERIAS;26865
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;AyB;SALONES CALLE 26;2499140
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Programas Recreativos;0
+4 Micro;4.8 Transaccional - Pensionado;7;2018;MS;DROGUERIAS;207585
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Programas Deportivos;2241050
+6 Otros;No Afiliada;5;2018;RyT;Hotel Bosques de Athan;7210993
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Hotel Paipa;1558504
+6 Otros;No Afiliada;7;2018;RyT;Club la Colina;23157861
+2 Emp Medio;2.2 Silver;11;2018;RyT;Piscilago;46731491
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Eventos y Convenciones;18033779
+4 Micro;4.5 Transaccional;2;2018;RyT;Hotel Peñalisa;1608193
+4 Micro;4.1 Estándar;11;2018;Educación y Cultura;Teatro;385155351
+4 Micro;4.8 Transaccional - Pensionado;8;2017;MS;DROGUERIAS;1215370
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Club El Cubo;100692329
+4 Micro;4.8 Transaccional - Pensionado;8;2017;MS;SUPERMERCADOS;46050
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Hotel Bosques de Athan;24679922
+2 Emp Medio;2.1 Gold;10;2017;Vivienda;Fecha Entrega;139900000
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Otros;1593091
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Piscilago;9328792
+4 Micro;4.5 Transaccional;5;2017;MS;DROGUERIAS;89789542
+6 Otros;No afiliada;5;2017;MS;DROGUERIAS;9410078
+2 Emp Medio;2.2 Silver;9;2018;RyT;Programas Deportivos;136375062
+6 Otros;No Afiliada;6;2018;RyT;Piscilago;207899861
+2 Emp Medio;2.2 Silver;7;2018;RyT;Hotel Paipa;1637208
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Hotel Bosques de Athan;3838042
+6 Otros;No Afiliada;8;2017;Vivienda;Fecha Promesa;252043700
+2 Emp Medio;2.1 Gold;8;2017;Vivienda;SubsidioEntregado;2340800
+6 Otros;No Afiliada;8;2018;RyT;Eventos y Convenciones;70132562
+4 Micro;4.5 Transaccional;6;2017;MS;DROGUERIAS;85755918
+4 Micro;4.1 Estándar;5;2018;AyB;CATERING;1880889
+6 Otros;No Afiliada;12;2018;RyT;Club El Cubo;142863444
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;MS;SUPERMERCADOS;110911972
+4 Micro;4.5 Transaccional;7;2018;RyT;Piscilago;36217821
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Club El Cubo;75977787
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Piscilago;10440000
+4 Micro;4.5 Transaccional;8;2017;Vivienda;SubsidioEntregado;637450442
+4 Micro;4.1 Estándar;1;2018;RyT;Club El Cubo;2632083
+1 Emp Grandes;1.2 Premium;8;2018;MS;SUPERMERCADOS;253963524
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2017;Vivienda;SubsidioAsignado;169674910
+4 Micro;4.2 Trans. Mas de 100 Trab.;3;2017;Vivienda;SubsidioEntregado;29479025
+2 Emp Medio;2.2 Silver;11;2018;RyT;Club Bellavista;43595426
+6 Otros;No afiliada;1;2017;Vivienda;SubsidioEntregado;8273460
+2 Emp Medio;2.2 Silver;2;2018;RyT;Club la Colina;8411872
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2017;Vivienda;SubsidioEntregado;11803472
+1 Emp Grandes;1.1 Platinum;9;2018;MS;SUPERMERCADOS;140398394
+1 Emp Grandes;1.1 Platinum;6;2018;AyB;CATERING;113845274
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Hotel Alcaravan;1571081
+4 Micro;4.1 Estándar;10;2018;RyT;Piscilago;4697886
+2 Emp Medio;2.2 Silver;7;2017;Vivienda;SubsidioEntregado;13789100
+4 Micro;4.1 Estándar;8;2018;RyT;Eventos y Convenciones;3480761
+2 Emp Medio;2.2 Silver;9;2018;RyT;Club la Colina;21159437
+2 Emp Medio;2.2 Silver;8;2017;RyT;;0
+4 Micro;4.1 Estándar;5;2017;Vivienda;SubsidioAsignado;14754340
+4 Micro;4.1 Estándar;11;2018;RyT;Club la Colina;482000
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Hotel Paipa;12886433
+3 Empresas Pymes;3.2 VIP Estándar;9;2017;RyT;;10084
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;AyB;CATERING;825080
+1 Emp Grandes;1.2 Premium;2;2018;Salud;;52923948
+1 Emp Grandes;1.2 Premium;10;2017;Vivienda;SubsidioEntregado;14754340
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;Salud;;8099400
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Hotel Peñalisa;906092
+1 Emp Grandes;1.1 Platinum;9;2018;Salud;;11527600
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;Vivienda;SubsidioEntregado;157157078
+6 Otros;No Afiliada;7;2018;RyT;Programas Deportivos;16201639
+4 Micro;4.7 Transaccional - Independiente;3;2017;MS;#;2160
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Otros;948162
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Programas Recreativos;47343500
+6 Otros;No Afiliada;7;2017;Vivienda;SubsidioEntregado;5867747478
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Club El Cubo;145190616
+6 Otros;No Afiliada;1;2017;RyT;;475451931
+6 Otros;No Afiliada;2;2018;RyT;Otros;9037281
+6 Otros;No Afiliada;2;2018;Salud;;59948049
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2017;MS;SUPERMERCADOS;2515309
+6 Otros;No Afiliada;7;2018;RyT;Club Bellavista;45540304
+6 Otros;No Afiliada;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;12076519,29
+5 Micro;5.1 Colsubsidio;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;4329412
+5 Micro;5.1 Colsubsidio;8;2018;RyT;Hotel Paipa;1812037
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Eventos y Convenciones;146344728
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2018;MS;SUPERMERCADOS;4350571
+1 Emp Grandes;1.1 Platinum;5;2018;Educación y Cultura;LEO;862000
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Otros;2785318
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Club El Cubo;36662192
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Hotel Peñalisa;124028
+2 Emp Medio;2.2 Silver;9;2018;MS;DROGUERIAS;687941759
+2 Emp Medio;2.2 Silver;5;2018;RyT;Eventos y Convenciones;166765863
+6 Otros;No Afiliada;8;2017;MS;DROGUERIAS;1487314103
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2018;Salud;;45000
+6 Otros;No Afiliada;7;2018;Salud;CHEQUEOS;6436495
+6 Otros;No Afiliada;12;2018;RyT;Otros;63658019
+6 Otros;No Afiliada;3;2017;Vivienda;Fecha Entrega;22990564870
+2 Emp Medio;2.1 Gold;12;2018;RyT;Club Bellavista;434710764
+6 Otros;No afiliada;12;2017;Vivienda;SubsidioEntregado;17705208
+4 Micro;4.5 Transaccional;8;2017;MS;#;23950
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2018;MS;SUPERMERCADOS;5059218
+6 Otros;No Afiliada;6;2017;MS;SUPERMERCADOS;9729317734
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Club El Cubo;34628067
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Club El Cubo;78211300
+6 Otros;No Afiliada;9;2018;RyT;Club Bellavista;86901880
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Club Bellavista;58465987
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Eventos y Convenciones;64217797
+2 Emp Medio;2.1 Gold;1;2018;RyT;Eventos y Convenciones;34292588
+4 Micro;4.8 Transaccional - Pensionado;9;2018;MS;SUPERMERCADOS;442942
+2 Emp Medio;2.2 Silver;1;2018;RyT;Club El Cubo;6731510
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Club El Cubo;15563593
+1 Emp Grandes;1.1 Platinum;2;2018;AyB;CATERING;42402454
+4 Micro;4.5 Transaccional;3;2017;MS;DROGUERIAS;85218909
+6 Otros;No Afiliada;11;2018;RyT;Hotel Paipa;62908953
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Club la Colina;1939494
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Hotel Paipa;1388516
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Club la Colina;1874486
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;MS;DROGUERIAS;4477155
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2017;Salud;EMPRESARIAL;126400
+6 Otros;No Afiliada;4;2018;RyT;Hotel Paipa;83048098
+1 Emp Grandes;1.2 Premium;6;2018;AyB;CATERING;26406681
+4 Micro;4.7 Transaccional - Independiente;8;2018;RyT;Club la Colina;187563
+2 Emp Medio;2.2 Silver;7;2018;RyT;Programas Recreativos;118145959
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Club Bellavista;9243197
+2 Emp Medio;2.2 Silver;12;2018;RyT;Hotel Paipa;20797408
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Hotel Alcaravan;6974275
+2 Emp Medio;2.1 Gold;8;2018;RyT;Club la Colina;13526286
+1 Emp Grandes;1.2 Premium;6;2018;Educación y Cultura;C+T;1,2e+07
+4 Micro;4.5 Transaccional;7;2017;MS;#;81925
+4 Micro;4.5 Transaccional;9;2018;RyT;Eventos y Convenciones;37723917
+6 Otros;No Afiliada;10;2017;Vivienda;Fecha Entrega;6058462960
+4 Micro;4.1 Estándar;10;2017;Vivienda;SubsidioEntregado;60974531
+4 Micro;4.1 Estándar;3;2018;RyT;Otros;1940508
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;Salud;EMPRESARIAL;83800
+4 Micro;4.5 Transaccional;12;2018;RyT;Club la Colina;11409911
+4 Micro;4.5 Transaccional;10;2018;MS;DROGUERIAS;102361875
+2 Emp Medio;2.1 Gold;1;2018;Salud;;32427850
+2 Emp Medio;2.1 Gold;11;2018;RyT;Club El Cubo;165481877
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Hotel Alcaravan;0
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Programas Deportivos;57652864
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;MS;SUPERMERCADOS;277862807
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Hotel Alcaravan;3770428
+6 Otros;No Afiliada;9;2017;MS;SUPERMERCADOS;10906007500
+2 Emp Medio;2.1 Gold;3;2018;RyT;Club la Colina;4539298
+4 Micro;4.1 Estándar;11;2018;RyT;Hotel Bosques de Athan;12970658
+1 Emp Grandes;1.2 Premium;9;2017;Vivienda;Fecha Promesa;103234000
+1 Emp Grandes;1.2 Premium;7;2018;AyB;CATERING;29473118
+6 Otros;No Afiliada;11;2018;MS;DROGUERIAS;467043972
+2 Emp Medio;2.2 Silver;5;2018;RyT;Piscilago;275000
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Programas Recreativos;10718571
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2017;RyT;;754033
+6 Otros;No Afiliada;11;2017;RyT;;4809019371
+3 Empresas Pymes;3.1 VIP;7;2018;AyB;SALONES CALLE 26;380501
+4 Micro;4.8 Transaccional - Pensionado;4;2018;MS;DROGUERIAS;426441
+3 Empresas Pymes;3.1 VIP;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;3671150
+4 Micro;4.1 Estándar;4;2017;Salud;EMPRESARIAL;39800
+6 Otros;No Afiliada;12;2017;Vivienda;Fecha Escritura;198252784
+4 Micro;4.5 Transaccional;4;2018;RyT;Club El Cubo;185494655
+5 Micro;5.1 Colsubsidio;7;2018;RyT;Club la Colina;7640909
+5 Micro;5.1 Colsubsidio;6;2018;Educación y Cultura;C+T;NA
+4 Micro;4.8 Transaccional - Pensionado;5;2017;MS;SUPERMERCADOS;106797
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2018;Salud;;84000
+4 Micro;4.7 Transaccional - Independiente;12;2018;RyT;Hotel Peñalisa;10239711
+5 Micro;5.1 Colsubsidio;8;2018;RyT;Club Bellavista;4622942
+2 Emp Medio;2.2 Silver;6;2018;RyT;Club El Cubo;55435631
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;Salud;;9794300
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Piscilago;31093801
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Club Bellavista;248815845
+6 Otros;No Afiliada;4;2018;Educación y Cultura;Teatro;1e+08
+6 Otros;No Afiliada;10;2018;RyT;Programas Deportivos;58752775
+6 Otros;No Afiliada;2;2017;MS;DROGUERIAS;11670668206
+3 Empresas Pymes;3.1 VIP;8;2018;MS;SUPERMERCADOS;612964757
+1 Emp Grandes;1.1 Platinum;3;2018;Educación y Cultura;LEO;26800000
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Eventos y Convenciones;11216794
+6 Otros;No Afiliada;3;2018;RyT;Hotel Paipa;39601330
+2 Emp Medio;2.1 Gold;11;2018;RyT;Programas Recreativos;98046575
+6 Otros;No Afiliada;6;2018;Educación y Cultura;C+T;26000000,6
+2 Emp Medio;2.1 Gold;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;415220
+4 Micro;4.8 Transaccional - Pensionado;3;2017;MS;DROGUERIAS;2085234
+6 Otros;No Afiliada;2;2017;CS-CONVENIOS;CS-CONVENIOS;1319654330
+4 Micro;4.5 Transaccional;1;2018;RyT;Otros;6387805
+1 Emp Grandes;1.1 Platinum;10;2018;Educación y Cultura;Teatro;48401055
+1 Emp Grandes;1.2 Premium;7;2018;Salud;;20316100
+2 Emp Medio;2.2 Silver;3;2018;RyT;Programas Recreativos;3974000
+2 Emp Medio;2.2 Silver;12;2018;RyT;Piscilago;167047713
+3 Empresas Pymes;3.1 VIP;6;2018;Salud;;82428874
+4 Micro;4.5 Transaccional;5;2018;RyT;Hotel Paipa;2390301
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Otros;13564109
+3 Empresas Pymes;3.1 VIP;10;2018;MS;SUPERMERCADOS;1328997504
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Eventos y Convenciones;1237804
+6 Otros;No Afiliada;3;2017;MS;#;460371091
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Club Calle 195;4611182
+4 Micro;4.5 Transaccional;12;2018;RyT;Programas Deportivos;383200
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;MS;DROGUERIAS;-308950
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Programas Recreativos;167947453
+2 Emp Medio;2.2 Silver;8;2018;RyT;Programas Deportivos;81413599
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Eventos y Convenciones;1082752
+4 Micro;4.5 Transaccional;5;2018;RyT;Hotel Alcaravan;108620
+2 Emp Medio;2.1 Gold;12;2018;Salud;;72606350
+4 Micro;4.5 Transaccional;8;2018;RyT;Piscilago;24627014
+4 Micro;4.5 Transaccional;5;2018;RyT;Club Bellavista;3169869
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Club Bellavista;32188098
+4 Micro;4.1 Estándar;5;2018;Salud;;11478300
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Otros;6250329
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Club Calle 195;1368305
+3 Empresas Pymes;3.1 VIP;4;2018;AyB;CATERING;23478387
+4 Micro;4.8 Transaccional - Pensionado;1;2018;RyT;Club Bellavista;118800
+6 Otros;No Afiliada;3;2017;MS;SUPERMERCADOS;8637069897
+3 Empresas Pymes;3.2 VIP Estándar;5;2017;MS;SUPERMERCADOS;1375232
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Eventos y Convenciones;9093222
+2 Emp Medio;2.1 Gold;6;2018;RyT;Piscilago;36885551
+5 Micro;5.1 Colsubsidio;11;2017;Vivienda;SubsidioEntregado;17705208
+6 Otros;No Afiliada;2;2017;Educacion;EDUCACION FORMAL;1932354422
+4 Micro;4.1 Estándar;8;2017;Vivienda;SubsidioEntregado;65277603
+2 Emp Medio;2.1 Gold;10;2018;RyT;Eventos y Convenciones;114392154
+6 Otros;No Afiliada;3;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;9849628
+3 Empresas Pymes;3.2 VIP Estándar;6;2017;RyT;;5042
+3 Empresas Pymes;3.1 VIP;1;2018;AyB;CATERING;8047422
+4 Micro;4.1 Estándar;9;2017;Vivienda;SubsidioAsignado;22131510
+1 Emp Grandes;1.2 Premium;5;2018;MS;SUPERMERCADOS;144066926
+6 Otros;No Afiliada;9;2018;RyT;Hotel Peñalisa;78144508
+4 Micro;4.5 Transaccional;11;2018;RyT;Hotel Bosques de Athan;14224520
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;MS;DROGUERIAS;38404035
+6 Otros;No Afiliada;10;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;22054057
+4 Micro;4.8 Transaccional - Pensionado;12;2017;MS;SUPERMERCADOS;106559
+3 Empresas Pymes;3.1 VIP;1;2017;RyT;;4326000
+6 Otros;No afiliada;5;2017;Salud;EMPRESARIAL;1430350
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Hotel Paipa;10928169
+6 Otros;No afiliada;2;2017;Salud;EMPRESARIAL;1841400
+2 Emp Medio;2.1 Gold;5;2018;RyT;Eventos y Convenciones;129594727
+6 Otros;No Afiliada;1;2018;RyT;Programas Recreativos;-13626872
+4 Micro;4.1 Estándar;12;2018;RyT;Club El Cubo;25026589
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Hotel Paipa;49168793
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Programas Deportivos;5017469
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Club Calle 195;3186235
+3 Empresas Pymes;3.1 VIP;3;2018;MS;DROGUERIAS;34171812
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Club Calle 195;556471
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Hotel Paipa;-18518
+4 Micro;4.5 Transaccional;1;2018;RyT;Piscilago;7176246
+4 Micro;4.7 Transaccional - Independiente;10;2018;RyT;Club la Colina;312605
+1 Emp Grandes;1.1 Platinum;6;2018;MS;SUPERMERCADOS;137273649
+4 Micro;4.5 Transaccional;9;2018;RyT;Hotel Paipa;42481220
+2 Emp Medio;2.1 Gold;4;2018;RyT;Otros;40155874
+4 Micro;4.1 Estándar;8;2018;RyT;Otros;566868
+6 Otros;No Afiliada;4;2018;RyT;Club Bellavista;62049805
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Club Bellavista;26960542
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2018;MS;SUPERMERCADOS;3390036
+6 Otros;No Afiliada;6;2018;Salud;;49584250
+1 Emp Grandes;1.2 Premium;1;2018;MS;SUPERMERCADOS;271897877
+3 Empresas Pymes;3.1 VIP;8;2018;Salud;;68433513
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;Educación y Cultura;TEATRO;99999999,47
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2018;RyT;Piscilago;2791808
+3 Empresas Pymes;3.1 VIP;5;2017;MS;SUPERMERCADOS;1118550
+4 Micro;4.5 Transaccional;6;2018;RyT;Piscilago;25797651
+2 Emp Medio;2.1 Gold;11;2018;RyT;Piscilago;55494910
+2 Emp Medio;2.2 Silver;7;2018;RyT;Club El Cubo;48762482
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;MS;DROGUERIAS;5246897
+2 Emp Medio;2.2 Silver;5;2018;Salud;;15981950
+6 Otros;No Afiliada;1;2018;RyT;Hotel Alcaravan;589963
+4 Micro;4.5 Transaccional;5;2017;MS;#;37900
+5 Micro;5.1 Colsubsidio;11;2018;AyB;CATERING;5344690
+6 Otros;No Afiliada;2;2017;MS;SUPERMERCADOS;8802270144
+4 Micro;4.1 Estándar;12;2018;RyT;Club la Colina;4212680
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2018;Salud;;67500
+2 Emp Medio;2.2 Silver;5;2018;AyB;CATERING;NA
+4 Micro;4.5 Transaccional;10;2018;RyT;Eventos y Convenciones;52492437
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Club la Colina;52352650
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Hotel Paipa;30185
+2 Emp Medio;2.1 Gold;6;2018;RyT;Club Bellavista;6300834
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Club Bellavista;-278738787
+2 Emp Medio;2.1 Gold;9;2018;RyT;Eventos y Convenciones;86350526
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;Salud;;15410250
+2 Emp Medio;2.2 Silver;2;2018;RyT;Hotel Paipa;12568447
+2 Emp Medio;2.1 Gold;4;2018;MS;DROGUERIAS;2773602
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Club la Colina;7277732
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2017;MS;SUPERMERCADOS;1670259
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Club El Cubo;25668197
+6 Otros;No Afiliada;6;2018;Educación y Cultura;TEATRO;14410186
+1 Emp Grandes;1.1 Platinum;11;2018;Salud;;49810182
+4 Micro;4.8 Transaccional - Pensionado;3;2018;RyT;Hotel Peñalisa;46483
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;MS;DROGUERIAS;30010167
+5 Micro;5.1 Colsubsidio;6;2018;Educación y Cultura;TEATRO;NA
+2 Emp Medio;2.2 Silver;8;2018;AyB;SALONES CALLE 26;4148620
+2 Emp Medio;2.2 Silver;5;2018;Salud;CHEQUEOS;1730576
+4 Micro;4.5 Transaccional;4;2017;Vivienda;SubsidioAsignado;458859974
+1 Emp Grandes;1.1 Platinum;7;2018;Educación y Cultura;TEATRO;839124
+2 Emp Medio;2.1 Gold;4;2018;AyB;CATERING;67847326
+6 Otros;No Afiliada;4;2018;RyT;Programas Recreativos;89041987
+4 Micro;4.5 Transaccional;6;2018;RyT;Club la Colina;4739760
+6 Otros;No Afiliada;8;2017;Vivienda;Fecha Entrega;10553636950
+6 Otros;No Afiliada;10;2017;MS;DROGUERIAS;392462411
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Piscilago;19514467
+6 Otros;No Afiliada;5;2018;MS;DROGUERIAS;480443263
+1 Emp Grandes;1.1 Platinum;7;2018;AyB;CATERING;21515451
+3 Empresas Pymes;3.1 VIP;7;2018;Salud;;56442882
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Piscilago;4963139
+6 Otros;No Afiliada;2;2018;RyT;Club El Cubo;14470838
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;Salud;EMPRESARIAL;949800
+1 Emp Grandes;1.1 Platinum;2;2018;Salud;CHEQUEOS;100
+4 Micro;4.5 Transaccional;3;2018;RyT;Hotel Peñalisa;35525492
+5 Micro;5.1 Colsubsidio;10;2018;AyB;CATERING;37952797
+2 Emp Medio;2.1 Gold;7;2018;AyB;SALONES CALLE 26;622830
+4 Micro;4.5 Transaccional;2;2018;RyT;Club Bellavista;8802124
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Hotel Paipa;5802152
+2 Emp Medio;2.2 Silver;9;2018;RyT;Club El Cubo;31172918
+4 Micro;4.5 Transaccional;5;2017;Vivienda;SubsidioEntregado;251533300
+6 Otros;No afiliada;7;2017;Salud;EMPRESARIAL;1057200
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;MS;SUPERMERCADOS;258159588
+2 Emp Medio;2.2 Silver;12;2017;Vivienda;SubsidioEntregado;11803472
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Programas Deportivos;0
+6 Otros;No afiliada;5;2017;Vivienda;SubsidioEntregado;42143732
+1 Emp Grandes;1.2 Premium;9;2018;Salud;;11906500
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;RyT;Club la Colina;1335966
+2 Emp Medio;2.1 Gold;1;2018;MS;DROGUERIAS;3426103
+3 Empresas Pymes;3.1 VIP;5;2017;Vivienda;Fecha Entrega;166980000
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;Salud;CHEQUEOS;11614415
+2 Emp Medio;2.1 Gold;5;2018;RyT;Programas Deportivos;6781125
+4 Micro;4.1 Estándar;5;2018;MS;DROGUERIAS;373440
+2 Emp Medio;2.2 Silver;7;2018;Educación y Cultura;ARTES;11008864,93
+6 Otros;No Afiliada;2;2018;RyT;Club Bellavista;39518730
+3 Empresas Pymes;3.2 VIP Estándar;4;2017;MS;SUPERMERCADOS;45822
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2018;Salud;;135000
+6 Otros;No afiliada;5;2017;MS;SUPERMERCADOS;136991225
+4 Micro;4.1 Estándar;10;2018;RyT;Hotel Bosques de Athan;13434167
+1 Emp Grandes;1.1 Platinum;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1136558
+4 Micro;4.1 Estándar;9;2018;RyT;Programas Deportivos;9466271
+4 Micro;4.5 Transaccional;8;2018;RyT;Programas Recreativos;3915000
+2 Emp Medio;2.1 Gold;9;2018;Educación y Cultura;EDUCACION INICIAL;3155880
+6 Otros;No Afiliada;9;2017;Vivienda;SubsidioAsignado;7391924340
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Hotel Peñalisa;18385568
+2 Emp Medio;2.1 Gold;4;2018;RyT;Club la Colina;19479784
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2018;RyT;Club la Colina;1539579
+4 Micro;4.5 Transaccional;11;2018;RyT;Club El Cubo;12473422
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Club Calle 195;5305722
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;Vivienda;Fecha Entrega;197322000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;Salud;;22466800
+6 Otros;No Afiliada;5;2018;RyT;Eventos y Convenciones;39892979
+4 Micro;4.1 Estándar;6;2018;RyT;Club la Colina;996079
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Club El Cubo;3578356
+1 Emp Grandes;1.1 Platinum;10;2018;MS;SUPERMERCADOS;694618102
+2 Emp Medio;2.1 Gold;5;2018;MS;SUPERMERCADOS;514478553
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2017;MS;SUPERMERCADOS;4152095
+2 Emp Medio;2.2 Silver;8;2018;RyT;Eventos y Convenciones;71240233
+6 Otros;No Afiliada;7;2018;MS;SUPERMERCADOS;1819943375
+1 Emp Grandes;1.2 Premium;8;2018;AyB;CATERING;12232112
+3 Empresas Pymes;3.2 VIP Estándar;8;2017;Vivienda;SubsidioAsignado;22131510
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Club Bellavista;9774695
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Club El Cubo;16144324
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;AyB;CATERING;250202
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Otros;23904495
+4 Micro;4.5 Transaccional;5;2017;RyT;;5172
+2 Emp Medio;2.1 Gold;7;2018;RyT;Programas Recreativos;60250532
+5 Micro;5.1 Colsubsidio;11;2018;RyT;Club Bellavista;-8509265
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Hotel Bosques de Athan;29315397
+2 Emp Medio;2.1 Gold;9;2018;MS;SUPERMERCADOS;581939729
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Club Calle 195;2030068
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Programas Deportivos;9912926
+4 Micro;4.5 Transaccional;1;2018;RyT;Club Bellavista;50340245
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Club Calle 195;2119164
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;Salud;CHEQUEOS;7266700
+4 Micro;4.7 Transaccional - Independiente;5;2018;RyT;Club la Colina;372609
+2 Emp Medio;2.1 Gold;12;2018;RyT;Piscilago;41868887
+4 Micro;4.8 Transaccional - Pensionado;9;2018;MS;DROGUERIAS;376705
+2 Emp Medio;2.2 Silver;7;2018;RyT;Club Bellavista;6383859
+2 Emp Medio;2.2 Silver;7;2018;MS;SUPERMERCADOS;5843041779
+3 Empresas Pymes;3.1 VIP;11;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;4873050
+4 Micro;4.2 Trans. Mas de 100 Trab.;6;2018;Salud;;2250900
+6 Otros;No Afiliada;7;2018;Salud;;29436800
+1 Emp Grandes;1.2 Premium;3;2018;AyB;CATERING;21732695
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Programas Recreativos;1229237
+3 Empresas Pymes;3.1 VIP;2;2018;Salud;;71122600
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;MS;DROGUERIAS;5257541
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;Vivienda;SubsidioAsignado;59017360
+4 Micro;4.8 Transaccional - Pensionado;1;2017;MS;DROGUERIAS;1297798
+4 Micro;4.5 Transaccional;2;2017;Vivienda;Fecha Entrega;1096018210
+6 Otros;No Afiliada;3;2018;RyT;Club El Cubo;3615935
+1 Emp Grandes;1.2 Premium;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;4100000
+4 Micro;4.5 Transaccional;5;2017;Educacion;Museo;782000
+6 Otros;No Afiliada;10;2018;RyT;Hotel Bosques de Athan;7849779
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;MS;DROGUERIAS;5966758
+3 Empresas Pymes;3.1 VIP;2;2018;Salud;CHEQUEOS;796191
+6 Otros;No Afiliada;7;2018;RyT;Hotel Peñalisa;17000404
+2 Emp Medio;2.1 Gold;6;2018;Educación y Cultura;EDUCACION INICIAL;523279616
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Otros;1600607
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Programas Deportivos;1235964
+6 Otros;No afiliada;8;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.5 Transaccional;11;2018;RyT;Programas Deportivos;6062153
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Hotel Paipa;27133994
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Hotel Paipa;496112
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Club la Colina;9419778
+6 Otros;No Afiliada;10;2018;RyT;Club la Colina;36095990
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Club El Cubo;128160397
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Hotel Bosques de Athan;6340029
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;MS;DROGUERIAS;40534708
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2017;Vivienda;SubsidioEntregado;27642625
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Programas Deportivos;1527988
+6 Otros;No Afiliada;2;2018;RyT;Hotel Peñalisa;108595093
+6 Otros;No Afiliada;10;2018;RyT;Piscilago;780784504
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;Vivienda;SubsidioAsignado;125411890
+2 Emp Medio;2.2 Silver;3;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;25898932
+2 Emp Medio;2.2 Silver;11;2018;Educación y Cultura;Teatro;12109400
+3 Empresas Pymes;3.1 VIP;2;2018;MS;DROGUERIAS;39116635
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Club Bellavista;278665459
+6 Otros;No Afiliada;12;2017;MS;#;339694183
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Club la Colina;18873424
+6 Otros;No Afiliada;9;2018;RyT;Hotel Alcaravan;5132102
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Club El Cubo;45910936
+5 Micro;5.1 Colsubsidio;7;2018;Educación y Cultura;Campus;3339000
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;Vivienda;Fecha Opcion;348198000
+3 Empresas Pymes;3.2 VIP Estándar;2;2017;Vivienda;SubsidioEntregado;20250650
+2 Emp Medio;2.2 Silver;10;2018;MS;DROGUERIAS;680588914
+5 Micro;5.1 Colsubsidio;9;2018;RyT;Club El Cubo;677037
+6 Otros;No Afiliada;2;2018;RyT;Club Calle 195;3899000
+4 Micro;4.5 Transaccional;7;2018;RyT;Club la Colina;1563774
+2 Emp Medio;2.2 Silver;8;2018;AyB;CATERING;30928461
+4 Micro;4.5 Transaccional;1;2018;RyT;Eventos y Convenciones;14266424
+6 Otros;No Afiliada;6;2018;RyT;Hotel Alcaravan;15445324
+4 Micro;4.7 Transaccional - Independiente;5;2018;Salud;CHEQUEOS;551550
+4 Micro;4.5 Transaccional;10;2018;RyT;Club la Colina;6190808
+6 Otros;No Afiliada;3;2018;Salud;;25157794
+4 Micro;4.5 Transaccional;4;2018;RyT;Piscilago;3404075
+4 Micro;4.7 Transaccional - Independiente;2;2018;RyT;Hotel Peñalisa;67594
+6 Otros;No Afiliada;4;2017;RyT;;1363306562
+6 Otros;No afiliada;2;2017;Educacion;DPTO CULTURA Y BILBIOTECAS;1035455
+1 Emp Grandes;1.2 Premium;12;2018;Salud;CHEQUEOS;36856000
+2 Emp Medio;2.2 Silver;6;2018;RyT;Hotel Peñalisa;1
+4 Micro;4.5 Transaccional;12;2018;RyT;Hotel Peñalisa;1962848
+6 Otros;No Afiliada;11;2018;RyT;Piscilago;1074281667
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;MS;SUPERMERCADOS;3634365
+6 Otros;No Afiliada;11;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;70086960
+3 Empresas Pymes;3.1 VIP;9;2017;Vivienda;Fecha Entrega;185322000
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Eventos y Convenciones;8006411
+2 Emp Medio;2.2 Silver;9;2018;MS;SUPERMERCADOS;6083067418
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Hotel Paipa;3953789
+4 Micro;4.5 Transaccional;10;2017;MS;SUPERMERCADOS;4429337948
+4 Micro;4.8 Transaccional - Pensionado;3;2018;MS;SUPERMERCADOS;730493
+6 Otros;No Afiliada;2;2018;RyT;Club la Colina;11918004
+1 Emp Grandes;1.1 Platinum;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1320832
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Programas Deportivos;7934986
+4 Micro;4.1 Estándar;7;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.8 Transaccional - Pensionado;5;2017;MS;DROGUERIAS;2348876
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Club la Colina;9718333
+4 Micro;4.5 Transaccional;12;2018;RyT;Piscilago;43738543
+6 Otros;No afiliada;2;2017;MS;SUPERMERCADOS;126732743
+3 Empresas Pymes;3.2 VIP Estándar;11;2017;Vivienda;SubsidioAsignado;14754340
+4 Micro;4.5 Transaccional;4;2017;Vivienda;Fecha Entrega;310280000
+4 Micro;4.8 Transaccional - Pensionado;11;2018;RyT;Programas Deportivos;30084
+3 Empresas Pymes;3.1 VIP;7;2018;MS;DROGUERIAS;33351999
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Hotel Paipa;13795956
+6 Otros;No Afiliada;4;2018;RyT;Club El Cubo;35778859
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;MS;DROGUERIAS;3479137
+2 Emp Medio;2.2 Silver;12;2018;RyT;Club Bellavista;346203471
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Club la Colina;56285123
+2 Emp Medio;2.1 Gold;5;2018;RyT;Club Bellavista;24101204
+2 Emp Medio;2.2 Silver;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;2189543
+6 Otros;No afiliada;4;2017;Salud;EMPRESARIAL;1088600
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Eventos y Convenciones;96014106
+2 Emp Medio;2.1 Gold;8;2018;Salud;CHEQUEOS;1730576
+6 Otros;No Afiliada;4;2018;Educación y Cultura;Campus;0
+4 Micro;4.7 Transaccional - Independiente;12;2018;RyT;Hotel Alcaravan;186584
+6 Otros;No Afiliada;5;2018;Educación y Cultura;TEATRO;25647570,2
+6 Otros;No Afiliada;8;2018;Salud;;83062834
+2 Emp Medio;2.2 Silver;8;2018;MS;DROGUERIAS;509491710
+4 Micro;4.1 Estándar;5;2018;RyT;Hotel Paipa;1549622
+3 Empresas Pymes;3.2 VIP Estándar;10;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.8 Transaccional - Pensionado;9;2017;MS;DROGUERIAS;1590066
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Club El Cubo;232138909
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2017;Vivienda;SubsidioEntregado;311209438
+2 Emp Medio;2.2 Silver;3;2018;AyB;CATERING;49331306
+2 Emp Medio;2.2 Silver;11;2018;RyT;Club El Cubo;66388604
+1 Emp Grandes;1.2 Premium;2;2018;MS;DROGUERIAS;31734266
+4 Micro;4.7 Transaccional - Independiente;11;2017;Vivienda;SubsidioEntregado;17705208
+6 Otros;No afiliada;10;2017;Salud;EMPRESARIAL;2452900
+4 Micro;4.1 Estándar;6;2018;Salud;;8981100
+6 Otros;No Afiliada;1;2017;MS;SUPERMERCADOS;8563108392
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;MS;DROGUERIAS;7117519
+2 Emp Medio;2.1 Gold;1;2018;RyT;Club Bellavista;2119533
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Club El Cubo;17680541
+4 Micro;4.5 Transaccional;11;2018;RyT;Otros;1114133
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;MS;DROGUERIAS;61258549
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Club El Cubo;29082235
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Club Bellavista;24641348
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Hotel Peñalisa;541936
+2 Emp Medio;2.1 Gold;1;2018;RyT;Club la Colina;1583695
+4 Micro;4.7 Transaccional - Independiente;2;2017;MS;DROGUERIAS;1300803
+3 Empresas Pymes;3.1 VIP;6;2018;MS;DROGUERIAS;22832684
+2 Emp Medio;2.1 Gold;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;4760000
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2018;MS;DROGUERIAS;1069250
+2 Emp Medio;2.2 Silver;11;2018;Salud;CHEQUEOS;81603818
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Club Bellavista;637333
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2018;RyT;Club la Colina;0
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;Vivienda;SubsidioEntregado;159658421
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2017;MS;DROGUERIAS;89181
+4 Micro;4.1 Estándar;12;2018;RyT;Piscilago;419189641
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Club Calle 195;1112941
+4 Micro;4.5 Transaccional;3;2018;RyT;Eventos y Convenciones;15678617
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Club Bellavista;5922520
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Club Bellavista;109361499
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Otros;11367476
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Piscilago;12415260
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Club la Colina;21472628
+4 Micro;4.1 Estándar;6;2018;RyT;Hotel Paipa;58148926
+4 Micro;4.1 Estándar;10;2018;RyT;Club Bellavista;7457399
+2 Emp Medio;2.2 Silver;6;2018;MS;DROGUERIAS;498550696
+2 Emp Medio;2.2 Silver;12;2018;RyT;Programas Recreativos;159404961
+6 Otros;No Afiliada;12;2018;MS;SUPERMERCADOS;8738656886
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Otros;3981989
+6 Otros;No Afiliada;7;2017;Vivienda;Fecha Opcion;408800000
+2 Emp Medio;2.2 Silver;8;2018;Salud;;12596500
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2017;MS;DROGUERIAS;5484661
+4 Micro;4.8 Transaccional - Pensionado;6;2017;MS;DROGUERIAS;2765147
+6 Otros;No Afiliada;10;2017;MS;SUPERMERCADOS;5525439135
+6 Otros;No Afiliada;8;2018;RyT;Club Calle 195;3899000
+5 Micro;5.1 Colsubsidio;10;2018;RyT;Hotel Peñalisa;211296
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Hotel Bosques de Athan;0
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Club El Cubo;25489136
+3 Empresas Pymes;3.1 VIP;10;2018;Salud;;82084800
+3 Empresas Pymes;3.1 VIP;6;2017;MS;SUPERMERCADOS;1152503
+4 Micro;4.1 Estándar;4;2018;RyT;Club la Colina;2288530
+4 Micro;4.2 Trans. Mas de 100 Trab.;2;2018;RyT;Piscilago;6635049
+2 Emp Medio;2.1 Gold;4;2018;RyT;Club Bellavista;156200
+6 Otros;No Afiliada;11;2017;Vivienda;Fecha Entrega;18252031778
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;MS;DROGUERIAS;60402979
+4 Micro;4.7 Transaccional - Independiente;1;2017;MS;DROGUERIAS;2035822
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Programas Recreativos;3112000
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Otros;3587572
+4 Micro;4.8 Transaccional - Pensionado;8;2018;RyT;Club El Cubo;-56050
+6 Otros;No Afiliada;11;2018;RyT;Eventos y Convenciones;38843780
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;Salud;CHEQUEOS;5060362
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Programas Deportivos;279962
+2 Emp Medio;2.1 Gold;10;2018;RyT;Otros;17967297
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Programas Deportivos;1026050
+4 Micro;4.5 Transaccional;4;2018;RyT;Hotel Paipa;116389
+2 Emp Medio;2.1 Gold;10;2018;RyT;Programas Deportivos;112468952
+4 Micro;4.7 Transaccional - Independiente;11;2018;RyT;Programas Deportivos;64000
+6 Otros;No Afiliada;7;2017;Vivienda;SubsidioAsignado;6805439325
+2 Emp Medio;2.1 Gold;3;2018;RyT;Piscilago;1215741
+2 Emp Medio;2.1 Gold;1;2018;RyT;Programas Deportivos;737380
+2 Emp Medio;2.1 Gold;8;2018;RyT;Club El Cubo;37926001
+4 Micro;4.5 Transaccional;3;2018;RyT;Club El Cubo;90335870
+2 Emp Medio;2.2 Silver;5;2018;RyT;Club El Cubo;81900064
+6 Otros;No Afiliada;8;2018;RyT;Club Bellavista;132388964
+2 Emp Medio;2.1 Gold;12;2018;RyT;Programas Deportivos;135360511
+3 Empresas Pymes;3.1 VIP;6;2018;MS;SUPERMERCADOS;486023873
+6 Otros;No Afiliada;11;2017;MS;#;296685690
+5 Micro;5.1 Colsubsidio;3;2017;Vivienda;Fecha Entrega;166980000
+4 Micro;4.7 Transaccional - Independiente;9;2018;RyT;Club Bellavista;1039425
+4 Micro;4.5 Transaccional;12;2018;RyT;Club Bellavista;26022439
+6 Otros;No Afiliada;9;2017;Salud;EMPRESARIAL;349047421
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Hotel Alcaravan;131475
+4 Micro;4.7 Transaccional - Independiente;12;2017;Vivienda;Fecha Entrega;154486000
+2 Emp Medio;2.2 Silver;1;2018;AyB;CATERING;13935575
+6 Otros;No Afiliada;12;2017;MS;DROGUERIAS;1298147034
+6 Otros;No Afiliada;3;2018;RyT;Hotel Bosques de Athan;470413
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;MS;DROGUERIAS;2141678
+4 Micro;4.5 Transaccional;7;2017;Vivienda;SubsidioAsignado;442630200
+1 Emp Grandes;1.2 Premium;11;2018;MS;DROGUERIAS;14636528
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;MS;DROGUERIAS;3670143
+5 Micro;5.1 Colsubsidio;12;2017;Vivienda;SubsidioAsignado;18442925
+4 Micro;4.5 Transaccional;6;2017;MS;SUPERMERCADOS;99183746
+5 Micro;5.1 Colsubsidio;4;2018;AyB;CATERING;29699356
+5 Micro;5.1 Colsubsidio;6;2018;RyT;Club la Colina;23248167
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Otros;18831613
+4 Micro;4.5 Transaccional;10;2018;Salud;;1661850
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Hotel Peñalisa;0
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Programas Deportivos;214110520
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Club Bellavista;-43251309
+4 Micro;4.5 Transaccional;5;2018;RyT;Piscilago;21304802
+4 Micro;4.6 Transaccional - Facultativo;7;2018;MS;DROGUERIAS;73854089
+4 Micro;4.5 Transaccional;8;2018;RyT;Eventos y Convenciones;49745560
+6 Otros;No Afiliada;11;2018;Educación y Cultura;Campus;1220260
+4 Micro;4.7 Transaccional - Independiente;8;2017;MS;DROGUERIAS;2101865
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;Salud;EMPRESARIAL;397800
+3 Empresas Pymes;3.1 VIP;2;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;224575
+6 Otros;No Afiliada;1;2017;Salud;EMPRESARIAL;333273090
+3 Empresas Pymes;3.1 VIP;1;2018;Salud;CHEQUEOS;15989344
+1 Emp Grandes;1.1 Platinum;4;2018;Salud;;1171350
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;Vivienda;SubsidioAsignado;261889535
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Otros;1913276
+1 Emp Grandes;1.1 Platinum;4;2018;Educación y Cultura;C+T;1,5e+07
+3 Empresas Pymes;3.1 VIP;2;2017;MS;SUPERMERCADOS;5905836
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2018;MS;SUPERMERCADOS;4029096
+4 Micro;4.5 Transaccional;12;2018;RyT;Hotel Alcaravan;1000361
+4 Micro;4.7 Transaccional - Independiente;4;2017;MS;SUPERMERCADOS;455840
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;MS;SUPERMERCADOS;235197167
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Programas Recreativos;18297600
+4 Micro;4.5 Transaccional;5;2017;MS;SUPERMERCADOS;107649870
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Hotel Bosques de Athan;0
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Otros;11547933
+6 Otros;No Afiliada;7;2018;AyB;CATERING;188695619
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Piscilago;38401976
+3 Empresas Pymes;3.1 VIP;1;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;671366
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Club la Colina;42413597
+4 Micro;4.5 Transaccional;3;2018;RyT;Otros;2019751
+6 Otros;No afiliada;6;2017;Vivienda;SubsidioEntregado;11031280
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Piscilago;64960504
+1 Emp Grandes;1.1 Platinum;10;2018;MS;DROGUERIAS;683216
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Club la Colina;3271881
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Club la Colina;18686183
+4 Micro;4.2 Trans. Mas de 100 Trab.;6;2018;RyT;Piscilago;1397022
+6 Otros;No Afiliada;12;2018;RyT;Eventos y Convenciones;168163090
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2018;RyT;Club la Colina;1218907
+4 Micro;4.1 Estándar;12;2018;RyT;Eventos y Convenciones;8709784
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Hotel Paipa;5827455
+2 Emp Medio;2.2 Silver;10;2018;RyT;Club la Colina;31481704
+2 Emp Medio;2.1 Gold;2;2018;AyB;CATERING;58524538
+4 Micro;4.5 Transaccional;6;2018;RyT;Programas Recreativos;151260
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Programas Recreativos;51862528
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;MS;SUPERMERCADOS;2401839
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2017;Vivienda;SubsidioAsignado;97378644
+2 Emp Medio;2.2 Silver;6;2018;Salud;CHEQUEOS;1730576
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Otros;2583832
+6 Otros;No Afiliada;11;2018;RyT;Programas Deportivos;342694774
+6 Otros;No Afiliada;1;2018;RyT;Club El Cubo;26256280
+2 Emp Medio;2.1 Gold;6;2018;RyT;Otros;37361052
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Hotel Peñalisa;587555
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2018;Salud;;170600
+6 Otros;No Afiliada;1;2018;RyT;Club Calle 195;3899000
+6 Otros;No Afiliada;5;2017;Vivienda;Fecha Entrega;10475300470
+6 Otros;No afiliada;12;2017;Salud;EMPRESARIAL;1813100
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Otros;934470
+4 Micro;4.8 Transaccional - Pensionado;1;2018;RyT;Club El Cubo;-151000
+6 Otros;No Afiliada;1;2017;MS;DROGUERIAS;15704866092
+1 Emp Grandes;1.2 Premium;2;2018;Educación y Cultura;ARTES;2032915,08
+1 Emp Grandes;1.1 Platinum;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;465632
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2017;MS;DROGUERIAS;89181
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Piscilago;623616618
+3 Empresas Pymes;3.1 VIP;3;2018;AyB;CATERING;57300471
+2 Emp Medio;2.2 Silver;12;2018;Salud;;44321236
+2 Emp Medio;2.1 Gold;3;2018;Salud;;10178100
+6 Otros;No Afiliada;7;2018;Educación y Cultura;Teatro;14613200
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Programas Deportivos;166450080
+2 Emp Medio;2.1 Gold;5;2018;RyT;Otros;25940879
+4 Micro;4.5 Transaccional;11;2018;RyT;Hotel Paipa;28384761
+6 Otros;No Afiliada;6;2017;MS;#;348117772
+2 Emp Medio;2.2 Silver;11;2018;RyT;Hotel Alcaravan;0
+4 Micro;4.5 Transaccional;4;2018;Salud;;856450
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Hotel Paipa;1403280
+2 Emp Medio;2.1 Gold;8;2018;RyT;Hotel Bosques de Athan;4652945
+6 Otros;No Afiliada;2;2018;RyT;Hotel Alcaravan;203241
+4 Micro;4.7 Transaccional - Independiente;9;2017;MS;SUPERMERCADOS;182278
+4 Micro;4.5 Transaccional;2;2017;Vivienda;SubsidioAsignado;405744350
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;Salud;EMPRESARIAL;119500
+4 Micro;4.5 Transaccional;11;2018;RyT;Piscilago;58454990
+4 Micro;4.1 Estándar;6;2018;RyT;Programas Deportivos;10080
+4 Micro;4.8 Transaccional - Pensionado;10;2017;MS;SUPERMERCADOS;1958204
+6 Otros;No Afiliada;6;2017;Vivienda;SubsidioAsignado;6768553475
+1 Emp Grandes;1.2 Premium;9;2018;MS;DROGUERIAS;42668609
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Club Bellavista;142378339
+2 Emp Medio;2.1 Gold;2;2018;RyT;Club Bellavista;4551385
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Programas Deportivos;4542200
+6 Otros;No Afiliada;4;2017;Vivienda;Fecha Entrega;16827609928
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;MS;DROGUERIAS;4213587
+4 Micro;4.2 Trans. Mas de 100 Trab.;10;2017;Vivienda;SubsidioEntregado;13789100
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Piscilago;3217074
+3 Empresas Pymes;3.1 VIP;8;2018;MS;DROGUERIAS;30746512
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Piscilago;24224405
+4 Micro;4.5 Transaccional;10;2018;RyT;Hotel Paipa;12206386
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Club Bellavista;2884393
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Piscilago;103882793
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;Salud;;10416200
+6 Otros;No Afiliada;5;2018;RyT;Programas Recreativos;1044000
+1 Emp Grandes;1.2 Premium;7;2018;MS;SUPERMERCADOS;178530736
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Hotel Peñalisa;0
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Programas Deportivos;113786980
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Otros;3466771
+5 Micro;5.1 Colsubsidio;9;2018;RyT;Hotel Paipa;4582133
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Club El Cubo;15886790
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Hotel Paipa;1077717
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Club Calle 195;1206050
+2 Emp Medio;2.2 Silver;2;2018;RyT;Club Bellavista;5820792
+4 Micro;4.1 Estándar;2;2018;RyT;Hotel Paipa;2404757
+3 Empresas Pymes;3.2 VIP Estándar;12;2017;MS;SUPERMERCADOS;254511
+6 Otros;No Afiliada;9;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;46244088
+4 Micro;4.5 Transaccional;6;2018;RyT;Programas Deportivos;856985
+4 Micro;4.1 Estándar;6;2018;RyT;Hotel Alcaravan;2675805
+2 Emp Medio;2.2 Silver;1;2018;RyT;Otros;963092
+4 Micro;4.8 Transaccional - Pensionado;9;2017;MS;SUPERMERCADOS;190472
+2 Emp Medio;2.2 Silver;9;2018;RyT;Otros;6708421
+6 Otros;No Afiliada;11;2018;Salud;;30555560
+4 Micro;4.1 Estándar;8;2018;RyT;Piscilago;105839235
+3 Empresas Pymes;3.1 VIP;6;2017;RyT;;5135293
+3 Empresas Pymes;3.2 VIP Estándar;9;2017;MS;SUPERMERCADOS;526757
+6 Otros;No Afiliada;1;2017;CS-CONVENIOS;CS-CONVENIOS;501505323
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;MS;SUPERMERCADOS;169330033
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Club Bellavista;-88902168
+2 Emp Medio;2.1 Gold;9;2018;Educación y Cultura;C+T;20908032,25
+4 Micro;4.6 Transaccional - Facultativo;2;2018;MS;DROGUERIAS;86501819
+3 Empresas Pymes;3.1 VIP;9;2017;Vivienda;SubsidioAsignado;18442925
+4 Micro;4.5 Transaccional;1;2017;MS;DROGUERIAS;70675097
+2 Emp Medio;2.1 Gold;8;2018;MS;SUPERMERCADOS;369578848
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Hotel Peñalisa;0
+4 Micro;4.7 Transaccional - Independiente;11;2017;MS;DROGUERIAS;2189445
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Club El Cubo;9535810
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2018;MS;DROGUERIAS;3646888
+1 Emp Grandes;1.1 Platinum;3;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;8774836
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;AyB;CATERING;4931860
+2 Emp Medio;2.2 Silver;2;2018;RyT;Club El Cubo;74926053
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Club Bellavista;41654660
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Otros;113912
+1 Emp Grandes;1.1 Platinum;5;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;1500000
+1 Emp Grandes;1.2 Premium;6;2018;MS;SUPERMERCADOS;246656528
+2 Emp Medio;2.2 Silver;12;2018;Salud;CHEQUEOS;41046942
+4 Micro;4.5 Transaccional;8;2018;Salud;;2779600
+3 Empresas Pymes;3.1 VIP;3;2017;RyT;;5017618
+2 Emp Medio;2.2 Silver;2;2018;MS;DROGUERIAS;550656563
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Piscilago;116739605
+1 Emp Grandes;1.2 Premium;11;2018;AyB;CATERING;4315027
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Otros;12114218
+4 Micro;4.1 Estándar;3;2017;Vivienda;SubsidioEntregado;13789100
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Piscilago;4700927
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Club la Colina;7291789
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;AyB;CATERING;2397264
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2017;MS;SUPERMERCADOS;2601430
+4 Micro;4.8 Transaccional - Pensionado;1;2017;MS;SUPERMERCADOS;143000
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Piscilago;31423334
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Club El Cubo;9030704
+2 Emp Medio;2.2 Silver;1;2018;RyT;Club Bellavista;5853421
+4 Micro;4.5 Transaccional;4;2018;Salud;CHEQUEOS;5838000
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Piscilago;42554160
+3 Empresas Pymes;3.2 VIP Estándar;5;2017;Vivienda;Fecha Entrega;170572000
+6 Otros;No Afiliada;8;2018;MS;SUPERMERCADOS;2165887951
+6 Otros;No Afiliada;1;2018;RyT;Programas Deportivos;-87118
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Eventos y Convenciones;573412
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Club Calle 195;763860
+6 Otros;No Afiliada;9;2018;RyT;Hotel Bosques de Athan;475966
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Programas Deportivos;1e+07
+4 Micro;4.5 Transaccional;9;2018;RyT;Club Bellavista;11319597
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Hotel Paipa;1575667
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Club la Colina;51992837
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Club la Colina;35135433
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Hotel Bosques de Athan;192970212
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Piscilago;10816396
+4 Micro;4.1 Estándar;12;2018;RyT;Programas Recreativos;104500
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Otros;47903189
+2 Emp Medio;2.2 Silver;10;2018;RyT;Piscilago;2135785
+2 Emp Medio;2.1 Gold;11;2018;RyT;Hotel Paipa;5822417
+6 Otros;No Afiliada;8;2017;RyT;;3071770690
+2 Emp Medio;2.2 Silver;4;2018;RyT;Programas Recreativos;928000
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Club El Cubo;48113239
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;179444
+5 Micro;5.1 Colsubsidio;10;2018;RyT;Club Bellavista;-30852104
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Piscilago;18739344
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Programas Deportivos;228714580
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Club la Colina;23025254
+6 Otros;No afiliada;7;2017;Vivienda;SubsidioEntregado;50633050
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Club la Colina;44640335
+1 Emp Grandes;1.1 Platinum;1;2018;AyB;CATERING;11949327
+4 Micro;4.1 Estándar;1;2018;Salud;;15787500
+4 Micro;4.1 Estándar;11;2017;Vivienda;SubsidioAsignado;36885850
+1 Emp Grandes;1.2 Premium;7;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;843663
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;MS;SUPERMERCADOS;86878680
+6 Otros;No afiliada;2;2017;Vivienda;SubsidioEntregado;23583220
+3 Empresas Pymes;3.1 VIP;7;2018;Educación y Cultura;C+T;1124550
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;Vivienda;Fecha Entrega;186152850
+6 Otros;No Afiliada;10;2018;RyT;Hotel Paipa;23201650
+4 Micro;4.5 Transaccional;10;2017;Vivienda;SubsidioEntregado;472752339
+2 Emp Medio;2.2 Silver;11;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;831623
+2 Emp Medio;2.2 Silver;1;2018;RyT;Eventos y Convenciones;7713677
+4 Micro;4.5 Transaccional;4;2018;RyT;Club Bellavista;140672
+4 Micro;4.2 Trans. Mas de 100 Trab.;12;2017;Vivienda;SubsidioEntregado;41221690
+6 Otros;No Afiliada;9;2018;MS;SUPERMERCADOS;1885748380
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Piscilago;162289465
+4 Micro;4.5 Transaccional;4;2018;Educación y Cultura;Campus;21848740
+3 Empresas Pymes;3.1 VIP;5;2018;AyB;CATERING;38797421
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2017;RyT;;-2138091
+2 Emp Medio;2.1 Gold;7;2018;RyT;Club la Colina;16418729
+3 Empresas Pymes;3.1 VIP;2;2018;Educación y Cultura;EDUCACION INICIAL;104578918,36
+3 Empresas Pymes;3.1 VIP;8;2018;Salud;CHEQUEOS;1664893
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Club Bellavista;9479748
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Hotel Alcaravan;2389286
+2 Emp Medio;2.1 Gold;11;2018;RyT;Eventos y Convenciones;224158877
+6 Otros;No Afiliada;9;2017;Vivienda;SubsidioEntregado;8791466393
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Hotel Alcaravan;748589
+3 Empresas Pymes;3.1 VIP;10;2018;AyB;CATERING;60363080
+4 Micro;4.1 Estándar;11;2018;RyT;Club El Cubo;33196576
+2 Emp Medio;2.1 Gold;9;2018;Salud;;34251540
+3 Empresas Pymes;3.2 VIP Estándar;10;2017;Vivienda;SubsidioEntregado;17705208
+1 Emp Grandes;1.1 Platinum;2;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;2601226
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2018;RyT;Club la Colina;2471260
+6 Otros;No Afiliada;9;2017;MS;DROGUERIAS;977770865
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Otros;3252857
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;MS;DROGUERIAS;6956735
+3 Empresas Pymes;3.2 VIP Estándar;1;2017;MS;SUPERMERCADOS;547157
+6 Otros;No Afiliada;7;2018;Educación y Cultura;Campus;2340500
+2 Emp Medio;2.2 Silver;5;2018;RyT;Hotel Paipa;1244506
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Otros;8953983
+4 Micro;4.5 Transaccional;3;2017;Vivienda;Fecha Entrega;614736100
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Club El Cubo;28496546
+2 Emp Medio;2.1 Gold;4;2018;MS;SUPERMERCADOS;408137780
+2 Emp Medio;2.1 Gold;9;2018;RyT;Piscilago;12117778
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Club El Cubo;84143585
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;MS;SUPERMERCADOS;80196316
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Programas Recreativos;362249388
+2 Emp Medio;2.2 Silver;11;2018;RyT;Programas Recreativos;136296000
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;MS;SUPERMERCADOS;5156090
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Otros;7901080
+4 Micro;4.8 Transaccional - Pensionado;4;2018;RyT;Programas Deportivos;60168
+4 Micro;4.5 Transaccional;4;2018;RyT;Programas Deportivos;28698
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Programas Recreativos;194925782
+1 Emp Grandes;1.1 Platinum;2;2018;MS;SUPERMERCADOS;141428850
+6 Otros;No Afiliada;6;2017;RyT;;2384436171
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Club la Colina;5241952
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;MS;DROGUERIAS;3574449
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Hotel Bosques de Athan;587555
+5 Micro;5.1 Colsubsidio;3;2018;AyB;CATERING;17467002
+1 Emp Grandes;1.1 Platinum;5;2017;Vivienda;Fecha Entrega;151204000
+4 Micro;4.6 Transaccional - Facultativo;7;2018;MS;SUPERMERCADOS;2237712415
+4 Micro;4.1 Estándar;10;2018;RyT;Hotel Peñalisa;1221630
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;MS;DROGUERIAS;21965667
+3 Empresas Pymes;3.1 VIP;8;2018;Educación y Cultura;ARTES;8127942,76
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;AyB;CATERING;6725339
+1 Emp Grandes;1.1 Platinum;9;2018;AyB;CATERING;46718174
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Club El Cubo;27058367
+4 Micro;4.5 Transaccional;3;2018;RyT;Programas Recreativos;-5e+06
+2 Emp Medio;2.2 Silver;6;2017;Vivienda;SubsidioEntregado;30767725
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;Vivienda;SubsidioEntregado;201549605
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Eventos y Convenciones;245406953
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Programas Recreativos;110459197
+3 Empresas Pymes;3.1 VIP;6;2018;Educación y Cultura;ARTES;15163755,88
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Club El Cubo;4264296
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Otros;374074
+2 Emp Medio;2.1 Gold;10;2018;RyT;Club Bellavista;112254492
+2 Emp Medio;2.1 Gold;6;2018;MS;SUPERMERCADOS;312536005
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Piscilago;281211568
+2 Emp Medio;2.1 Gold;6;2018;RyT;Club la Colina;49673329
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Otros;3305305
+5 Micro;5.1 Colsubsidio;6;2017;Vivienda;SubsidioEntregado;4136730
+1 Emp Grandes;1.2 Premium;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1441966
+4 Micro;4.5 Transaccional;5;2018;AyB;CATERING;443044
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;MS;SUPERMERCADOS;273864851
+2 Emp Medio;2.1 Gold;4;2018;RyT;Club El Cubo;50982430
+3 Empresas Pymes;3.1 VIP;1;2017;Vivienda;Fecha Entrega;169912000
+6 Otros;No afiliada;4;2017;Vivienda;SubsidioEntregado;33218850
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Piscilago;123093714
+5 Micro;5.1 Colsubsidio;5;2018;Educación y Cultura;C+T;NA
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Programas Recreativos;2458474
+2 Emp Medio;2.2 Silver;3;2018;RyT;Club El Cubo;60210577
+4 Micro;4.7 Transaccional - Independiente;11;2018;RyT;Club la Colina;195378
+6 Otros;No Afiliada;8;2017;Vivienda;SubsidioAsignado;8138125086
+2 Emp Medio;2.2 Silver;1;2018;Educación y Cultura;ARTES;5127592
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Programas Recreativos;29660778
+2 Emp Medio;2.2 Silver;4;2018;RyT;Piscilago;2028094
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Hotel Alcaravan;252100
+4 Micro;4.5 Transaccional;8;2017;MS;SUPERMERCADOS;120996318
+4 Micro;4.5 Transaccional;2;2018;RyT;Club la Colina;532500
+4 Micro;4.5 Transaccional;5;2018;Salud;;1647400
+5 Micro;5.1 Colsubsidio;7;2018;AyB;CATERING;15663729
+6 Otros;No Afiliada;3;2018;Educación y Cultura;Campus;1386370
+2 Emp Medio;2.1 Gold;10;2018;RyT;Club la Colina;21028784
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Hotel Alcaravan;7474396
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Programas Recreativos;4025001
+6 Otros;No Afiliada;12;2018;RyT;Programas Recreativos;356205868
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Otros;37188892
+6 Otros;No Afiliada;8;2017;Salud;EMPRESARIAL;397697400
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Programas Recreativos;180362989
+1 Emp Grandes;1.2 Premium;10;2018;AyB;CATERING;21779971
+3 Empresas Pymes;3.1 VIP;5;2018;MS;DROGUERIAS;31962209
+4 Micro;4.1 Estándar;8;2018;MS;DROGUERIAS;172205
+6 Otros;No Afiliada;3;2017;Vivienda;SubsidioEntregado;NA
+4 Micro;4.1 Estándar;12;2018;RyT;Otros;2456845
+2 Emp Medio;2.1 Gold;1;2018;Educación y Cultura;ARTES;18680617,62
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Hotel Paipa;1333373
+6 Otros;No afiliada;9;2017;Salud;EMPRESARIAL;1682700
+2 Emp Medio;2.1 Gold;12;2018;RyT;Hotel Alcaravan;2029630
+4 Micro;4.8 Transaccional - Pensionado;6;2018;MS;DROGUERIAS;351067
+4 Micro;4.5 Transaccional;11;2018;RyT;Club Bellavista;18834236
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;MS;SUPERMERCADOS;106467749
+6 Otros;No afiliada;9;2017;Vivienda;SubsidioEntregado;53143198
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Club Bellavista;-25003603
+4 Micro;4.1 Estándar;7;2018;RyT;Hotel Alcaravan;29907
+6 Otros;No afiliada;11;2017;MS;SUPERMERCADOS;78056680
+2 Emp Medio;2.1 Gold;12;2018;RyT;Club El Cubo;287816306
+2 Emp Medio;2.2 Silver;4;2018;RyT;Hotel Bosques de Athan;36724557
+4 Micro;4.1 Estándar;8;2018;RyT;Club Bellavista;3592807
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Club Calle 195;1010924
+3 Empresas Pymes;3.1 VIP;12;2018;Salud;;107892258
+2 Emp Medio;2.1 Gold;9;2018;MS;DROGUERIAS;1123899
+2 Emp Medio;2.2 Silver;3;2018;RyT;Club la Colina;9159305
+4 Micro;4.5 Transaccional;8;2018;RyT;Hotel Alcaravan;4506874
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2018;MS;SUPERMERCADOS;2851646
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Club Bellavista;18077135
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Eventos y Convenciones;5386200
+4 Micro;4.1 Estándar;8;2018;MS;SUPERMERCADOS;81589569
+6 Otros;No Afiliada;8;2018;RyT;Programas Deportivos;3831096
+6 Otros;No Afiliada;4;2017;Vivienda;SubsidioEntregado;NA
+2 Emp Medio;2.2 Silver;5;2018;RyT;Programas Recreativos;9897623
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Programas Deportivos;4952468
+2 Emp Medio;2.1 Gold;4;2018;RyT;Piscilago;2431482
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Club Bellavista;11221245
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Otros;14368108
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Club la Colina;7826907
+3 Empresas Pymes;3.1 VIP;2;2017;RyT;;20335011
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Club El Cubo;17928257
+6 Otros;No Afiliada;9;2018;Salud;;59943451
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;MS;SUPERMERCADOS;293517571
+1 Emp Grandes;1.1 Platinum;7;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;271187
+4 Micro;4.8 Transaccional - Pensionado;2;2017;MS;DROGUERIAS;1647171
+4 Micro;4.8 Transaccional - Pensionado;6;2018;RyT;Club El Cubo;133700
+6 Otros;No afiliada;9;2017;MS;DROGUERIAS;8009905
+4 Micro;4.2 Trans. Mas de 100 Trab.;3;2018;RyT;Club la Colina;554872
+2 Emp Medio;2.1 Gold;9;2018;RyT;Club la Colina;9765565
+6 Otros;No Afiliada;11;2018;AyB;CATERING;13990126
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;Salud;;32599200
+4 Micro;4.5 Transaccional;10;2018;RyT;Club El Cubo;19674845
+4 Micro;4.2 Trans. Mas de 100 Trab.;9;2017;Vivienda;SubsidioEntregado;23389920
+1 Emp Grandes;1.2 Premium;8;2018;AyB;SALONES CALLE 26;52000
+4 Micro;4.6 Transaccional - Facultativo;6;2018;MS;DROGUERIAS;63810150
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Club Bellavista;75208376
+4 Micro;4.5 Transaccional;2;2018;Salud;;903900
+4 Micro;4.8 Transaccional - Pensionado;8;2018;MS;SUPERMERCADOS;2657186
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Club El Cubo;48610538
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Club Bellavista;15421276
+5 Micro;5.1 Colsubsidio;7;2018;RyT;Club Bellavista;-5318846
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Programas Recreativos;18330528
+6 Otros;No Afiliada;12;2018;RyT;Hotel Peñalisa;119062154
+4 Micro;4.7 Transaccional - Independiente;10;2017;MS;DROGUERIAS;7390350
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;Vivienda;SubsidioEntregado;108755140
+4 Micro;4.5 Transaccional;11;2017;Vivienda;Fecha Opcion;580330000
+6 Otros;No Afiliada;4;2018;AyB;CATERING;3587066
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Club Bellavista;2419414
+2 Emp Medio;2.2 Silver;3;2018;RyT;Otros;2321497
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;AyB;CATERING;10241849
+6 Otros;No Afiliada;6;2017;Vivienda;Fecha Entrega;3912702210
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Piscilago;39789359
+4 Micro;4.5 Transaccional;8;2018;RyT;Programas Deportivos;-1344082
+2 Emp Medio;2.1 Gold;12;2018;Salud;CHEQUEOS;41991029
+2 Emp Medio;2.2 Silver;11;2018;AyB;CATERING;7912709
+4 Micro;4.8 Transaccional - Pensionado;1;2018;MS;SUPERMERCADOS;2333452
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Piscilago;3721293
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Eventos y Convenciones;9425124
+1 Emp Grandes;1.2 Premium;4;2017;Vivienda;SubsidioAsignado;14754340
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Piscilago;11889478
+2 Emp Medio;2.2 Silver;11;2018;Salud;;23011747
+4 Micro;4.5 Transaccional;9;2017;Vivienda;SubsidioEntregado;737769163
+4 Micro;4.1 Estándar;1;2018;RyT;Eventos y Convenciones;0
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Club la Colina;2089331
+4 Micro;4.5 Transaccional;6;2018;Salud;;157400
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Programas Deportivos;63100117
+4 Micro;4.2 Trans. Mas de 100 Trab.;4;2017;Vivienda;SubsidioEntregado;43961475
+2 Emp Medio;2.1 Gold;12;2018;RyT;Eventos y Convenciones;833435845
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Hotel Alcaravan;10853244
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Piscilago;12379622
+2 Emp Medio;2.2 Silver;10;2018;RyT;Hotel Alcaravan;198907
+3 Empresas Pymes;3.1 VIP;6;2018;Educación y Cultura;C+T;2359175
+4 Micro;4.5 Transaccional;9;2018;RyT;Otros;3075905
+2 Emp Medio;2.1 Gold;10;2018;RyT;Piscilago;20995482
+4 Micro;4.6 Transaccional - Facultativo;6;2018;MS;SUPERMERCADOS;2229599103
+2 Emp Medio;2.2 Silver;5;2018;RyT;Otros;16214944
+1 Emp Grandes;1.1 Platinum;5;2018;Educación y Cultura;C+T;26180
+4 Micro;4.1 Estándar;10;2018;RyT;Programas Deportivos;11439075
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;Salud;;18813200
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;MS;SUPERMERCADOS;89813715
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Otros;2987981
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Programas Deportivos;4014033
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Eventos y Convenciones;725630618
+4 Micro;4.7 Transaccional - Independiente;4;2018;RyT;Club la Colina;289160
+6 Otros;No Afiliada;1;2017;Educacion;DPTO CULTURA Y BILBIOTECAS;5516277
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Piscilago;69953645
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Club El Cubo;168820177
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Hotel Bosques de Athan;759813
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Eventos y Convenciones;773277
+2 Emp Medio;2.2 Silver;12;2018;RyT;Club la Colina;23728568
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Club El Cubo;47135395
+4 Micro;4.5 Transaccional;1;2018;Salud;;3082850
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;AyB;CATERING;2679257
+4 Micro;4.8 Transaccional - Pensionado;12;2017;MS;DROGUERIAS;1924407
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Club El Cubo;97581807
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Hotel Peñalisa;-138152
+4 Micro;4.5 Transaccional;9;2018;AyB;CATERING;469140
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Programas Deportivos;98494
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Otros;10520008
+4 Micro;4.1 Estándar;4;2018;RyT;Piscilago;15666039
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;MS;DROGUERIAS;3281084
+4 Micro;4.1 Estándar;7;2018;RyT;Club la Colina;800498
+2 Emp Medio;2.2 Silver;8;2017;Vivienda;SubsidioAsignado;22131510
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Piscilago;31431482
+4 Micro;4.1 Estándar;1;2018;RyT;Hotel Paipa;15654452
+1 Emp Grandes;1.1 Platinum;8;2018;Salud;;3219000
+3 Empresas Pymes;3.2 VIP Estándar;3;2017;MS;SUPERMERCADOS;2192368
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Otros;11111000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;Salud;;7652100
+2 Emp Medio;2.1 Gold;11;2018;Salud;;22609700
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Club Calle 195;2694454
+3 Empresas Pymes;3.1 VIP;12;2018;Salud;CHEQUEOS;25184215
+6 Otros;No Afiliada;3;2018;RyT;Otros;23128902
+1 Emp Grandes;1.2 Premium;6;2018;MS;DROGUERIAS;44619156
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2018;Salud;;282800
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;Vivienda;SubsidioEntregado;80385932
+4 Micro;4.1 Estándar;2;2017;Vivienda;SubsidioEntregado;33020374
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;MS;DROGUERIAS;26608466
+4 Micro;4.6 Transaccional - Facultativo;2;2018;MS;SUPERMERCADOS;2014131919
+6 Otros;No Afiliada;5;2017;MS;DROGUERIAS;2068772718
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Programas Recreativos;7419140
+2 Emp Medio;2.1 Gold;2;2018;RyT;Club El Cubo;20050690
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Club la Colina;48209814
+6 Otros;No Afiliada;1;2017;Vivienda;Fecha Opcion;656068000
+4 Micro;4.5 Transaccional;8;2018;RyT;Otros;748921
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Piscilago;40430059
+2 Emp Medio;2.1 Gold;7;2017;Vivienda;SubsidioEntregado;11031280
+4 Micro;4.1 Estándar;1;2017;Vivienda;Fecha Entrega;171252000
+4 Micro;4.5 Transaccional;7;2018;RyT;Eventos y Convenciones;43959511
+1 Emp Grandes;1.1 Platinum;6;2018;AyB;SALONES CALLE 26;185185
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;Vivienda;Fecha Entrega;178232000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Club Bellavista;523097
+4 Micro;4.7 Transaccional - Independiente;11;2018;RyT;Piscilago;266296
+3 Empresas Pymes;3.1 VIP;12;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;628822
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Hotel Peñalisa;240981690
+2 Emp Medio;2.1 Gold;5;2018;MS;DROGUERIAS;1540223
+2 Emp Medio;2.2 Silver;10;2018;Educación y Cultura;Teatro;12418860
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2018;RyT;Piscilago;5393697
+3 Empresas Pymes;3.1 VIP;6;2018;Salud;CHEQUEOS;391200
+2 Emp Medio;2.1 Gold;6;2018;RyT;Eventos y Convenciones;76363249
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Otros;1666398
+2 Emp Medio;2.2 Silver;2;2018;AyB;CATERING;11762421
+2 Emp Medio;2.1 Gold;10;2018;Salud;;6961300
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Eventos y Convenciones;672000
+2 Emp Medio;2.1 Gold;1;2018;RyT;Piscilago;13280581
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Otros;752256
+2 Emp Medio;2.1 Gold;9;2018;RyT;Programas Deportivos;168300992
+4 Micro;4.1 Estándar;4;2017;Vivienda;SubsidioEntregado;34472750
+4 Micro;4.1 Estándar;3;2018;RyT;Eventos y Convenciones;1146839
+6 Otros;No Afiliada;9;2018;Educación y Cultura;Teatro;49005200
+2 Emp Medio;2.2 Silver;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;3041537
+4 Micro;4.5 Transaccional;10;2018;RyT;Otros;1287394
+1 Emp Grandes;1.1 Platinum;12;2018;Salud;;73320151
+4 Micro;4.5 Transaccional;1;2018;RyT;Club la Colina;2126891
+6 Otros;No Afiliada;12;2018;MS;DROGUERIAS;1252881331
+5 Micro;5.1 Colsubsidio;3;2018;RyT;Club Bellavista;1
+4 Micro;4.7 Transaccional - Independiente;2;2017;MS;SUPERMERCADOS;542199
+6 Otros;No Afiliada;8;2018;RyT;Club la Colina;27834374
+6 Otros;No Afiliada;2;2017;RyT;;1314705904
+2 Emp Medio;2.1 Gold;11;2018;RyT;Club Bellavista;282302087
+4 Micro;4.7 Transaccional - Independiente;4;2017;MS;DROGUERIAS;1710480
+5 Micro;5.1 Colsubsidio;2;2018;RyT;Hotel Paipa;1669462
+2 Emp Medio;2.1 Gold;7;2018;RyT;Programas Deportivos;10128069
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Piscilago;7495111
+2 Emp Medio;2.2 Silver;9;2018;AyB;CATERING;48445500
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Piscilago;27553796
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Club Bellavista;8348971
+6 Otros;No Afiliada;4;2017;MS;DROGUERIAS;2688638719
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Eventos y Convenciones;29860735
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Hotel Paipa;664994
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;MS;DROGUERIAS;82304974
+6 Otros;No Afiliada;2;2018;RyT;Hotel Paipa;29880733
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Agencia de viajes;20216511
+1 Emp Grandes;1.2 Premium;3;2017;Vivienda;SubsidioEntregado;12242650
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Hotel Alcaravan;5187819
+6 Otros;No Afiliada;11;2018;RyT;Club El Cubo;145609821
+4 Micro;4.1 Estándar;1;2018;RyT;Club Bellavista;1643209
+4 Micro;4.8 Transaccional - Pensionado;2;2018;MS;DROGUERIAS;218420
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Piscilago;13845945
+2 Emp Medio;2.1 Gold;2;2018;RyT;Piscilago;12475000
+6 Otros;No Afiliada;5;2018;RyT;Club la Colina;29656670
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Programas Recreativos;64785514
+1 Emp Grandes;1.1 Platinum;3;2018;AyB;CATERING;144095079
+6 Otros;No Afiliada;11;2018;RyT;Club la Colina;37888175
+2 Emp Medio;2.2 Silver;4;2018;RyT;Hotel Paipa;4665650
+4 Micro;4.7 Transaccional - Independiente;5;2017;MS;DROGUERIAS;1784371
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Hotel Alcaravan;716037
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Otros;1436140
+2 Emp Medio;2.2 Silver;8;2018;Educación y Cultura;EDUCACION INICIAL;707845,32
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Programas Deportivos;40743951
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Otros;4561685
+4 Micro;4.7 Transaccional - Independiente;7;2018;RyT;Club la Colina;359496
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2018;MS;DROGUERIAS;1719775
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Club la Colina;1374842
+4 Micro;4.5 Transaccional;7;2018;RyT;Hotel Bosques de Athan;0
+6 Otros;No Afiliada;7;2017;MS;#;267610898
+1 Emp Grandes;1.1 Platinum;7;2018;AyB;SALONES CALLE 26;185185
+3 Empresas Pymes;3.1 VIP;3;2018;Salud;CHEQUEOS;18797921
+3 Empresas Pymes;3.2 VIP Estándar;8;2017;MS;SUPERMERCADOS;832961
+6 Otros;No afiliada;10;2017;MS;DROGUERIAS;28540591
+6 Otros;No Afiliada;4;2018;RyT;Otros;20915072
+4 Micro;4.8 Transaccional - Pensionado;12;2018;RyT;Hotel Alcaravan;4833723
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Programas Recreativos;5678805
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Club Bellavista;355045
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Programas Deportivos;100880828
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Piscilago;39258426
+6 Otros;No Afiliada;7;2017;Vivienda;Fecha Promesa;38982190200
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Eventos y Convenciones;106217321
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;Vivienda;SubsidioAsignado;112132984
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Piscilago;10867408
+2 Emp Medio;2.1 Gold;7;2018;RyT;Hotel Peñalisa;0
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Programas Recreativos;7126521
+4 Micro;4.1 Estándar;11;2018;Salud;;19031200
+4 Micro;4.5 Transaccional;1;2018;RyT;Club El Cubo;81296188
+1 Emp Grandes;1.2 Premium;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;2568784
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Hotel Paipa;1391907
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;AyB;CATERING;811718
+6 Otros;No Afiliada;8;2018;RyT;Piscilago;389785417
+6 Otros;No Afiliada;1;2018;RyT;Hotel Paipa;70370
+1 Emp Grandes;1.2 Premium;4;2018;Salud;CHEQUEOS;14819326
+4 Micro;4.2 Trans. Mas de 100 Trab.;3;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.5 Transaccional;8;2018;RyT;Club Bellavista;26405304
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Club Bellavista;16098841
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;MS;DROGUERIAS;6406924
+2 Emp Medio;2.1 Gold;5;2018;AyB;CATERING;NA
+6 Otros;No Afiliada;4;2017;MS;#;306021067
+4 Micro;4.6 Transaccional - Facultativo;3;2018;MS;DROGUERIAS;79884853
+5 Micro;5.1 Colsubsidio;9;2018;RyT;Club Bellavista;4517744
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Hotel Alcaravan;0
+6 Otros;No Afiliada;1;2018;AyB;CATERING;4020857
+2 Emp Medio;2.2 Silver;5;2018;RyT;Club la Colina;27393001
+5 Micro;5.1 Colsubsidio;2;2018;AyB;CATERING;12280147
+6 Otros;No Afiliada;5;2018;RyT;Club Bellavista;147537439
+4 Micro;4.5 Transaccional;9;2017;Vivienda;Fecha Entrega;392782000
+5 Micro;5.1 Colsubsidio;11;2018;RyT;Club la Colina;18288471
+2 Emp Medio;2.2 Silver;7;2018;MS;DROGUERIAS;380721252
+6 Otros;No Afiliada;12;2018;Salud;;62586532
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Piscilago;39869493
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;RyT;Club El Cubo;230000
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Eventos y Convenciones;48098335
+2 Emp Medio;2.2 Silver;1;2018;RyT;Programas Recreativos;1002682
+4 Micro;4.1 Estándar;9;2018;RyT;Piscilago;164550156
+6 Otros;No afiliada;8;2017;MS;DROGUERIAS;5392946
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Club El Cubo;26603975
+2 Emp Medio;2.1 Gold;6;2018;RyT;Programas Recreativos;-2576000
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Programas Deportivos;106410123
+1 Emp Grandes;1.2 Premium;11;2017;Vivienda;SubsidioEntregado;20683650
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;AyB;CATERING;998480
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Club El Cubo;45056648
+6 Otros;No Afiliada;8;2018;RyT;Club El Cubo;22389933
+2 Emp Medio;2.2 Silver;10;2017;Vivienda;SubsidioEntregado;17236375
+6 Otros;No Afiliada;4;2018;RyT;Eventos y Convenciones;219391684
+2 Emp Medio;2.2 Silver;5;2018;MS;DROGUERIAS;583779946
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Club la Colina;100597641
+6 Otros;No Afiliada;5;2017;MS;SUPERMERCADOS;9378487727
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2017;Vivienda;SubsidioAsignado;248610629
+1 Emp Grandes;1.2 Premium;9;2018;Salud;CHEQUEOS;551586
+2 Emp Medio;2.1 Gold;9;2018;AyB;CATERING;144681395
+6 Otros;No Afiliada;5;2018;Educación y Cultura;C+T;3395665
+2 Emp Medio;2.2 Silver;3;2017;Vivienda;SubsidioEntregado;10953950
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Hotel Peñalisa;4517651
+1 Emp Grandes;1.2 Premium;9;2018;AyB;CATERING;6875798
+5 Micro;5.1 Colsubsidio;11;2018;RyT;Hotel Paipa;8126129
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Club Calle 195;5031268
+4 Micro;4.1 Estándar;1;2018;MS;SUPERMERCADOS;86443840
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Programas Recreativos;3604000
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Programas Deportivos;6339712
+4 Micro;4.7 Transaccional - Independiente;12;2017;MS;DROGUERIAS;1034367
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Club Bellavista;21688901
+4 Micro;4.5 Transaccional;8;2018;RyT;Hotel Paipa;5797152
+2 Emp Medio;2.2 Silver;10;2018;Salud;CHEQUEOS;28810183
+2 Emp Medio;2.2 Silver;4;2018;Salud;;33672450
+2 Emp Medio;2.2 Silver;4;2018;MS;DROGUERIAS;437900838
+4 Micro;4.6 Transaccional - Facultativo;5;2018;MS;SUPERMERCADOS;2486680303
+1 Emp Grandes;1.1 Platinum;3;2018;Salud;;2903700
+3 Empresas Pymes;3.1 VIP;2;2018;AyB;CATERING;28843838
+3 Empresas Pymes;3.1 VIP;9;2018;MS;SUPERMERCADOS;495749253
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Programas Deportivos;236512732
+2 Emp Medio;2.1 Gold;1;2017;Vivienda;Fecha Entrega;328236000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;MS;DROGUERIAS;5914593
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Hotel Peñalisa;2
+6 Otros;No Afiliada;6;2018;MS;SUPERMERCADOS;1841287147
+2 Emp Medio;2.1 Gold;9;2018;RyT;Otros;16310186
+4 Micro;4.8 Transaccional - Pensionado;11;2018;MS;DROGUERIAS;2632247
+6 Otros;No Afiliada;1;2017;Vivienda;SubsidioEntregado;NA
+5 Micro;5.1 Colsubsidio;6;2018;AyB;CATERING;15411089
+4 Micro;4.5 Transaccional;2;2017;MS;SUPERMERCADOS;94413244
+4 Micro;4.5 Transaccional;4;2017;Vivienda;SubsidioEntregado;323853120
+4 Micro;4.1 Estándar;12;2018;Salud;;14540600
+4 Micro;4.5 Transaccional;12;2017;Vivienda;Fecha Opcion;103234000
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Hotel Paipa;11004953
+6 Otros;No Afiliada;5;2018;RyT;Club El Cubo;107720536
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Hotel Peñalisa;69176645
+4 Micro;4.2 Trans. Mas de 100 Trab.;8;2017;Vivienda;SubsidioAsignado;22131510
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Club la Colina;11309155
+6 Otros;No Afiliada;1;2018;RyT;Piscilago;353350669
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Club El Cubo;67202400
+2 Emp Medio;2.1 Gold;8;2018;RyT;Piscilago;3993350
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Club la Colina;15271671
+4 Micro;4.5 Transaccional;7;2017;Vivienda;SubsidioEntregado;320166113
+4 Micro;4.1 Estándar;3;2018;AyB;CATERING;1544892
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2018;MS;SUPERMERCADOS;3633766
+4 Micro;4.5 Transaccional;11;2017;Vivienda;SubsidioAsignado;702306584
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;Vivienda;Fecha Entrega;154362000
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Programas Recreativos;181868378
+4 Micro;4.6 Transaccional - Facultativo;10;2018;MS;DROGUERIAS;97950
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Club El Cubo;189871769
+2 Emp Medio;2.1 Gold;7;2018;RyT;Eventos y Convenciones;90262821
+2 Emp Medio;2.2 Silver;11;2018;RyT;Otros;47151857
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Hotel Bosques de Athan;331410
+6 Otros;No Afiliada;12;2018;RyT;Hotel Bosques de Athan;141441644
+6 Otros;No Afiliada;1;2018;Educación y Cultura;ARTES;2,5e+07
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Eventos y Convenciones;428571
+3 Empresas Pymes;3.2 VIP Estándar;10;2017;MS;SUPERMERCADOS;16260430
+2 Emp Medio;2.1 Gold;11;2018;MS;DROGUERIAS;3144063
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Hotel Bosques de Athan;587555
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Programas Recreativos;6300000
+2 Emp Medio;2.2 Silver;6;2018;AyB;CATERING;49494005
+2 Emp Medio;2.2 Silver;9;2018;RyT;Club Bellavista;166041557
+4 Micro;4.1 Estándar;11;2018;RyT;Club Bellavista;7561828
+1 Emp Grandes;1.2 Premium;3;2018;MS;DROGUERIAS;20889271
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Club El Cubo;9216118
+2 Emp Medio;2.1 Gold;4;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;1870000
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Club la Colina;5339619
+1 Emp Grandes;1.1 Platinum;4;2018;AyB;CATERING;50821848
+4 Micro;4.8 Transaccional - Pensionado;7;2018;RyT;Programas Deportivos;60168
+4 Micro;4.5 Transaccional;6;2018;RyT;Eventos y Convenciones;30101056
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;Salud;;35598000
+6 Otros;No Afiliada;7;2017;MS;SUPERMERCADOS;10712774171
+4 Micro;4.1 Estándar;4;2018;RyT;Hotel Paipa;18276729
+6 Otros;No Afiliada;12;2018;Salud;CHEQUEOS;6390023
+4 Micro;4.8 Transaccional - Pensionado;12;2018;RyT;Hotel Peñalisa;11068098
+4 Micro;4.7 Transaccional - Independiente;3;2018;RyT;Hotel Peñalisa;46483
+6 Otros;No Afiliada;6;2018;AyB;SALONES CALLE 26;7381454
+5 Micro;5.1 Colsubsidio;2;2018;RyT;Club la Colina;5607182
+2 Emp Medio;2.2 Silver;5;2018;RyT;Hotel Bosques de Athan;-123528
+4 Micro;4.5 Transaccional;9;2018;RyT;Piscilago;12386306
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Programas Deportivos;1094292
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Hotel Peñalisa;6108224
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Club El Cubo;59126656
+4 Micro;4.1 Estándar;12;2018;Educación y Cultura;Teatro;-8841431
+2 Emp Medio;2.1 Gold;8;2018;RyT;Otros;25820548
+1 Emp Grandes;1.1 Platinum;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;2715359
+2 Emp Medio;2.2 Silver;10;2018;Salud;;56125950
+2 Emp Medio;2.1 Gold;9;2018;RyT;Club El Cubo;96672044
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;Vivienda;SubsidioEntregado;42719140
+2 Emp Medio;2.1 Gold;6;2018;Salud;CHEQUEOS;8642111
+6 Otros;No Afiliada;7;2017;Salud;EMPRESARIAL;378337172
+6 Otros;No Afiliada;9;2018;Salud;CHEQUEOS;4343801
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Programas Deportivos;62595527
+2 Emp Medio;2.1 Gold;8;2018;Salud;;5802300
+6 Otros;No Afiliada;3;2017;Vivienda;Fecha Opcion;224200000
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Club Calle 195;37045344
+4 Micro;4.1 Estándar;11;2018;RyT;Piscilago;404458809
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Hotel Peñalisa;0
+4 Micro;4.5 Transaccional;6;2018;RyT;Hotel Paipa;0
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;9;2017;Salud;EMPRESARIAL;695400
+4 Micro;4.1 Estándar;7;2018;RyT;Club Bellavista;837437
+2 Emp Medio;2.1 Gold;7;2018;RyT;Club Bellavista;61539944
+6 Otros;No afiliada;7;2017;MS;SUPERMERCADOS;113007467
+1 Emp Grandes;1.2 Premium;10;2018;MS;SUPERMERCADOS;577709952
+4 Micro;4.1 Estándar;8;2018;Salud;CHEQUEOS;1730576
+2 Emp Medio;2.2 Silver;4;2018;RyT;Hotel Peñalisa;4439571
+6 Otros;No Afiliada;10;2017;RyT;;3820243689
+6 Otros;No Afiliada;5;2018;Educación y Cultura;Teatro;222230400
+4 Micro;4.5 Transaccional;5;2018;RyT;Otros;731886
+2 Emp Medio;2.1 Gold;2;2018;Salud;;14378850
+2 Emp Medio;2.1 Gold;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;7913460,33
+2 Emp Medio;2.2 Silver;3;2018;MS;DROGUERIAS;586759850
+6 Otros;No Afiliada;8;2018;Educación y Cultura;Teatro;220500
+2 Emp Medio;2.2 Silver;9;2018;RyT;Piscilago;62151096
+1 Emp Grandes;1.2 Premium;4;2018;AyB;CATERING;15903429
+6 Otros;No Afiliada;4;2018;RyT;Club la Colina;63736081
+4 Micro;4.1 Estándar;11;2018;AyB;CATERING;384247
+4 Micro;4.1 Estándar;9;2018;RyT;Club El Cubo;2442741
+3 Empresas Pymes;3.1 VIP;9;2018;MS;DROGUERIAS;26717882
+2 Emp Medio;2.2 Silver;7;2018;RyT;Otros;3051323
+1 Emp Grandes;1.1 Platinum;8;2017;Vivienda;SubsidioAsignado;18442925
+6 Otros;No afiliada;4;2017;MS;DROGUERIAS;6746659
+6 Otros;No Afiliada;5;2018;AyB;CATERING;16940027
+5 Micro;5.1 Colsubsidio;3;2018;RyT;Hotel Peñalisa;-8282575
+2 Emp Medio;2.1 Gold;4;2018;RyT;Programas Deportivos;24907411
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Club la Colina;9956424
+6 Otros;No Afiliada;10;2018;RyT;Hotel Alcaravan;45529050
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Club El Cubo;50725270
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Programas Deportivos;13650592
+6 Otros;No Afiliada;1;2018;RyT;Otros;-5313361
+6 Otros;No Afiliada;9;2018;Educación y Cultura;Campus;339017
+2 Emp Medio;2.1 Gold;3;2018;MS;DROGUERIAS;1062297
+6 Otros;No Afiliada;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;4640000
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2018;Salud;;45000
+6 Otros;No Afiliada;11;2018;RyT;Hotel Peñalisa;139363766
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;Salud;CHEQUEOS;6725255
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;Salud;;22337300
+6 Otros;No Afiliada;3;2017;Salud;EMPRESARIAL;421145636
+3 Empresas Pymes;3.1 VIP;3;2017;Vivienda;SubsidioEntregado;16546920
+2 Emp Medio;2.2 Silver;8;2018;MS;SUPERMERCADOS;NA
+2 Emp Medio;2.2 Silver;6;2018;Salud;;12467800
+6 Otros;No Afiliada;5;2018;RyT;Programas Deportivos;9262857
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Hotel Paipa;17304333
+6 Otros;No Afiliada;7;2018;RyT;Club El Cubo;115061656
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Club Bellavista;43215704
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1016401
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Hotel Paipa;0
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Hotel Bosques de Athan;6392523
+4 Micro;4.1 Estándar;6;2018;MS;DROGUERIAS;419980
+4 Micro;4.8 Transaccional - Pensionado;3;2018;MS;DROGUERIAS;549745
+4 Micro;4.5 Transaccional;3;2017;Vivienda;SubsidioAsignado;450007370
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Eventos y Convenciones;1589171827
+6 Otros;No Afiliada;5;2017;Vivienda;SubsidioEntregado;NA
+6 Otros;No Afiliada;9;2018;RyT;Club Calle 195;3899000
+4 Micro;4.1 Estándar;7;2018;RyT;Club El Cubo;837543
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Piscilago;2431482
+6 Otros;No Afiliada;6;2018;RyT;Club la Colina;28191684
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Programas Recreativos;381044308
+3 Empresas Pymes;3.1 VIP;1;2018;Salud;;99826844
+2 Emp Medio;2.2 Silver;9;2018;Salud;CHEQUEOS;1664893
+6 Otros;No Afiliada;5;2017;Educacion;Museo;51726600
+4 Micro;4.1 Estándar;5;2018;RyT;Hotel Peñalisa;241482
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Eventos y Convenciones;231769827
+6 Otros;No Afiliada;1;2018;RyT;Eventos y Convenciones;-114596710
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;MS;SUPERMERCADOS;109234108
+6 Otros;No Afiliada;5;2018;RyT;Club Calle 195;11697000
+2 Emp Medio;2.2 Silver;6;2018;RyT;Eventos y Convenciones;79121618
+2 Emp Medio;2.1 Gold;10;2018;MS;SUPERMERCADOS;1228552648
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Eventos y Convenciones;93770284
+2 Emp Medio;2.1 Gold;11;2018;RyT;Otros;32032139
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Programas Recreativos;1078000
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;Salud;EMPRESARIAL;167800
+6 Otros;No Afiliada;5;2018;Educación y Cultura;Campus;22307740
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;AyB;CATERING;64467
+6 Otros;No Afiliada;12;2017;Vivienda;SubsidioEntregado;12393383492
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Eventos y Convenciones;16296351
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Hotel Peñalisa;10318475
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Hotel Peñalisa;27465324
+2 Emp Medio;2.2 Silver;9;2018;RyT;Eventos y Convenciones;125894789
+4 Micro;4.6 Transaccional - Facultativo;9;2018;MS;DROGUERIAS;88453249
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;MS;SUPERMERCADOS;402324222
+6 Otros;No Afiliada;6;2017;Vivienda;Fecha Opcion;318640768
+2 Emp Medio;2.1 Gold;4;2018;RyT;Eventos y Convenciones;12427719
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Hotel Paipa;1642541
+5 Micro;5.1 Colsubsidio;9;2018;RyT;Club la Colina;13140051
+4 Micro;4.5 Transaccional;3;2018;RyT;Club Bellavista;10745782
+6 Otros;No afiliada;3;2017;Vivienda;SubsidioEntregado;13531350
+2 Emp Medio;2.2 Silver;1;2018;RyT;Piscilago;47270649
+2 Emp Medio;2.2 Silver;6;2018;RyT;Programas Deportivos;28606324
+6 Otros;No afiliada;1;2017;Salud;EMPRESARIAL;4209850
+2 Emp Medio;2.2 Silver;6;2018;RyT;Programas Recreativos;3564972
+2 Emp Medio;2.1 Gold;2;2018;RyT;Programas Deportivos;4816605
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Club Bellavista;9919771
+1 Emp Grandes;1.1 Platinum;9;2018;Educación y Cultura;Campus;945375
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;Salud;;30548990
+6 Otros;No Afiliada;10;2017;Vivienda;Fecha Opcion;2257096310
+6 Otros;No Afiliada;12;2017;RyT;;12734351318
+4 Micro;4.5 Transaccional;12;2018;Salud;;3541000
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Hotel Paipa;1200000
+4 Micro;4.8 Transaccional - Pensionado;6;2018;MS;SUPERMERCADOS;646331
+3 Empresas Pymes;3.1 VIP;10;2018;MS;DROGUERIAS;18822475
+6 Otros;No afiliada;11;2017;MS;DROGUERIAS;11154275
+2 Emp Medio;2.2 Silver;2;2018;RyT;Hotel Peñalisa;0
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Programas Deportivos;50963879
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;8;2017;Salud;EMPRESARIAL;126000
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;AyB;SALONES CALLE 26;766313
+4 Micro;4.5 Transaccional;7;2017;MS;DROGUERIAS;84522569
+1 Emp Grandes;1.1 Platinum;5;2018;AyB;CATERING;62278948
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Eventos y Convenciones;129076343
+2 Emp Medio;2.2 Silver;10;2018;AyB;CATERING;70690769
+2 Emp Medio;2.1 Gold;7;2018;MS;DROGUERIAS;438591
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;MS;SUPERMERCADOS;2004124
+6 Otros;No Afiliada;9;2017;MS;#;261939988
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Hotel Peñalisa;941550
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2018;RyT;Club la Colina;1447226
+6 Otros;No Afiliada;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;4667745
+6 Otros;No afiliada;9;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.1 Estándar;10;2018;AyB;CATERING;4577545
+2 Emp Medio;2.2 Silver;1;2018;Salud;;9741600
+2 Emp Medio;2.1 Gold;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;4932385
+1 Emp Grandes;1.1 Platinum;7;2017;RyT;;750731
+1 Emp Grandes;1.2 Premium;10;2018;Salud;;16127150
+6 Otros;No Afiliada;8;2018;Educación y Cultura;Campus;6221008
+4 Micro;4.7 Transaccional - Independiente;10;2018;MS;DROGUERIAS;2341409
+4 Micro;4.6 Transaccional - Facultativo;3;2018;MS;SUPERMERCADOS;2108606726
+2 Emp Medio;2.1 Gold;4;2018;Educación y Cultura;C+T;1480600,38
+2 Emp Medio;2.1 Gold;2;2018;RyT;Programas Recreativos;13834855
+4 Micro;4.1 Estándar;12;2018;RyT;Club Bellavista;27817888
+2 Emp Medio;2.1 Gold;1;2018;RyT;Club El Cubo;19068817
+4 Micro;4.6 Transaccional - Facultativo;8;2018;MS;DROGUERIAS;86601115
+5 Micro;5.1 Colsubsidio;10;2018;RyT;Club la Colina;11015384
+2 Emp Medio;2.1 Gold;11;2018;RyT;Programas Deportivos;109290601
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Eventos y Convenciones;38258934
+6 Otros;No afiliada;3;2017;MS;SUPERMERCADOS;94758392
+2 Emp Medio;2.1 Gold;7;2018;AyB;CATERING;36620481
+6 Otros;No Afiliada;10;2018;RyT;Club Bellavista;81794067
+4 Micro;4.1 Estándar;5;2018;RyT;Club Bellavista;1879777
+4 Micro;4.7 Transaccional - Independiente;11;2018;RyT;Club Bellavista;5030072
+6 Otros;No Afiliada;10;2018;AyB;CATERING;40906622
+6 Otros;No Afiliada;2;2018;RyT;Piscilago;109844915
+4 Micro;4.5 Transaccional;3;2018;RyT;Club la Colina;9429847
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2017;RyT;;2138091
+4 Micro;4.1 Estándar;5;2018;Educación y Cultura;Teatro;3551472
+4 Micro;4.1 Estándar;4;2018;MS;SUPERMERCADOS;54858553
+6 Otros;No afiliada;11;2017;Vivienda;SubsidioEntregado;20683650
+4 Micro;4.5 Transaccional;2;2018;RyT;Programas Deportivos;398900
+2 Emp Medio;2.1 Gold;8;2018;RyT;Club Bellavista;43783382
+4 Micro;4.1 Estándar;6;2018;AyB;CATERING;2392147
+4 Micro;4.5 Transaccional;1;2017;Vivienda;Fecha Entrega;329914000
+4 Micro;4.5 Transaccional;4;2018;Educación y Cultura;Teatro;77687000
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Club Bellavista;20826732
+6 Otros;No Afiliada;6;2018;RyT;Club El Cubo;59460468
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;Salud;EMPRESARIAL;94400
+4 Micro;4.5 Transaccional;2;2017;MS;#;3500
+4 Micro;4.5 Transaccional;2;2018;RyT;Hotel Paipa;26853740
+5 Micro;5.1 Colsubsidio;6;2018;RyT;Piscilago;853833
+2 Emp Medio;2.1 Gold;6;2018;RyT;Hotel Alcaravan;374030
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Club El Cubo;15145572
+4 Micro;4.1 Estándar;8;2018;RyT;Programas Deportivos;5179326
+6 Otros;No Afiliada;9;2018;Educación y Cultura;TEATRO;3243240
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Otros;8198918
+4 Micro;4.5 Transaccional;7;2018;Salud;;1646800
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Piscilago;18471946
+6 Otros;No Afiliada;12;2018;RyT;Piscilago;918305306
+4 Micro;4.5 Transaccional;7;2017;MS;SUPERMERCADOS;98878020
+6 Otros;No Afiliada;12;2017;Salud;EMPRESARIAL;696476429
+4 Micro;4.1 Estándar;4;2018;RyT;Club El Cubo;3007881
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Piscilago;29249335
+4 Micro;4.1 Estándar;9;2018;MS;DROGUERIAS;67440
+6 Otros;No Afiliada;1;2018;RyT;Hotel Peñalisa;3380614
+4 Micro;4.7 Transaccional - Independiente;10;2017;MS;SUPERMERCADOS;2489456
+4 Micro;4.8 Transaccional - Pensionado;8;2018;MS;DROGUERIAS;361588
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Programas Recreativos;237865569
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Eventos y Convenciones;15094380
+4 Micro;4.1 Estándar;3;2018;Salud;;9150300
+2 Emp Medio;2.1 Gold;6;2018;MS;DROGUERIAS;3797726
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Hotel Peñalisa;0
+6 Otros;No Afiliada;10;2018;RyT;Club El Cubo;76341556
+2 Emp Medio;2.1 Gold;6;2018;RyT;Club El Cubo;32778099
+2 Emp Medio;2.2 Silver;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;2416651
+4 Micro;4.5 Transaccional;6;2017;Vivienda;SubsidioAsignado;290660498
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Piscilago;8330882
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Programas Deportivos;176002909
+6 Otros;No Afiliada;10;2018;Salud;;61947030
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;Educación y Cultura;EDUCACION INICIAL;1020000
+3 Empresas Pymes;3.1 VIP;8;2018;Educación y Cultura;Campus;1665966
+3 Empresas Pymes;3.1 VIP;5;2018;Salud;;51630480
+6 Otros;No Afiliada;10;2017;MS;#;74933172
+4 Micro;4.5 Transaccional;4;2017;MS;DROGUERIAS;80630099
+4 Micro;4.1 Estándar;7;2017;Vivienda;SubsidioEntregado;20683650
+2 Emp Medio;2.1 Gold;3;2018;Salud;CHEQUEOS;2745686
+4 Micro;4.5 Transaccional;11;2018;RyT;Hotel Peñalisa;91773291
+6 Otros;No Afiliada;6;2018;RyT;Otros;12350466
+6 Otros;No Afiliada;11;2017;Vivienda;SubsidioAsignado;10664436952
+2 Emp Medio;2.1 Gold;9;2018;RyT;Hotel Bosques de Athan;1151034
+2 Emp Medio;2.1 Gold;3;2018;Educación y Cultura;ARTES;51366151,27
+4 Micro;4.1 Estándar;9;2017;RyT;;15126
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Club la Colina;20440277
+4 Micro;4.5 Transaccional;9;2018;RyT;Club El Cubo;44459666
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;Vivienda;Fecha Promesa;722638000
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;RyT;Hotel Peñalisa;587555
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Hotel Bosques de Athan;611665
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Otros;555840
+2 Emp Medio;2.2 Silver;3;2018;RyT;Hotel Paipa;25041103
+6 Otros;No Afiliada;4;2018;Salud;;23087409
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Club Bellavista;6845606
+4 Micro;4.5 Transaccional;12;2018;RyT;Hotel Bosques de Athan;3078767
+4 Micro;4.1 Estándar;8;2017;Vivienda;SubsidioAsignado;14754340
+4 Micro;4.8 Transaccional - Pensionado;4;2017;MS;DROGUERIAS;1329159
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Piscilago;111030551
+2 Emp Medio;2.2 Silver;11;2018;RyT;Hotel Paipa;4544080
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;Salud;;34762300
+2 Emp Medio;2.2 Silver;1;2018;MS;SUPERMERCADOS;5331416250
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Piscilago;12944605
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Club Bellavista;10110120
+6 Otros;No afiliada;10;2017;MS;#;172425275
+4 Micro;4.5 Transaccional;5;2018;RyT;Programas Deportivos;1873949
+1 Emp Grandes;1.2 Premium;2;2018;MS;SUPERMERCADOS;216973417
+1 Emp Grandes;1.2 Premium;7;2018;MS;DROGUERIAS;41946741
+2 Emp Medio;2.2 Silver;8;2018;RyT;Programas Recreativos;72268686
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;Salud;;22482550
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Club la Colina;5072747
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Otros;1489568
+2 Emp Medio;2.1 Gold;5;2018;RyT;Programas Recreativos;22621600
+2 Emp Medio;2.1 Gold;10;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;29833300
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;MS;SUPERMERCADOS;160432874
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Programas Deportivos;1220042
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;Educación y Cultura;C+T;3323499,83
+4 Micro;4.1 Estándar;10;2017;RyT;;35294
+6 Otros;No Afiliada;8;2017;Vivienda;Fecha Opcion;371142768
+6 Otros;No Afiliada;10;2018;RyT;Eventos y Convenciones;47640834
+4 Micro;4.8 Transaccional - Pensionado;2;2017;MS;SUPERMERCADOS;57300
+6 Otros;No Afiliada;6;2018;RyT;Eventos y Convenciones;65255854
+4 Micro;4.5 Transaccional;12;2017;Vivienda;SubsidioAsignado;923621684
+6 Otros;No afiliada;3;2017;MS;DROGUERIAS;9291534
+6 Otros;No Afiliada;4;2018;Educación y Cultura;TEATRO;264454176
+6 Otros;No Afiliada;7;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;87018367,63
+1 Emp Grandes;1.1 Platinum;10;2018;Salud;;91771500
+4 Micro;4.6 Transaccional - Facultativo;11;2017;MS;DROGUERIAS;74550
+6 Otros;No Afiliada;1;2017;Vivienda;Fecha Entrega;23820606950
+2 Emp Medio;2.2 Silver;1;2018;RyT;Programas Deportivos;0
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Piscilago;873333
+4 Micro;4.5 Transaccional;4;2018;RyT;Eventos y Convenciones;7565250
+4 Micro;4.6 Transaccional - Facultativo;9;2018;MS;SUPERMERCADOS;2226234249
+4 Micro;4.5 Transaccional;7;2018;RyT;Otros;214907
+6 Otros;No Afiliada;2;2017;Educacion;SUPERMERCADOS;3242100
+6 Otros;No Afiliada;7;2017;MS;DROGUERIAS;1299694222
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Programas Deportivos;107642994
+4 Micro;4.7 Transaccional - Independiente;6;2018;RyT;Club El Cubo;-60500
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Club Bellavista;4305845
+6 Otros;No Afiliada;3;2018;MS;SUPERMERCADOS;1560697340
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Club la Colina;43928935
+1 Emp Grandes;1.2 Premium;12;2018;Salud;;49150000
+1 Emp Grandes;1.2 Premium;5;2018;Salud;CHEQUEOS;1461500
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Piscilago;12180696
+6 Otros;No Afiliada;2;2017;MS;#;423338274
+4 Micro;4.5 Transaccional;11;2018;MS;DROGUERIAS;90102694
+2 Emp Medio;2.1 Gold;8;2018;MS;DROGUERIAS;4405566
+4 Micro;4.7 Transaccional - Independiente;11;2017;MS;SUPERMERCADOS;1077805
+4 Micro;4.5 Transaccional;6;2018;Educación y Cultura;C+T;26000000,6
+4 Micro;4.1 Estándar;5;2018;RyT;Club El Cubo;35874343
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2018;MS;DROGUERIAS;1431731
+2 Emp Medio;2.2 Silver;3;2018;Salud;;18779550
+6 Otros;No Afiliada;8;2018;RyT;Programas Recreativos;73676929
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Otros;5119786
+2 Emp Medio;2.1 Gold;9;2018;RyT;Club Bellavista;112664121
+5 Micro;5.1 Colsubsidio;3;2018;RyT;Hotel Paipa;2178812
+6 Otros;No Afiliada;11;2017;Vivienda;Fecha Promesa;825872000
+4 Micro;4.5 Transaccional;1;2017;MS;SUPERMERCADOS;117868341
+4 Micro;4.5 Transaccional;5;2017;Vivienda;Fecha Entrega;551750250
+5 Micro;5.1 Colsubsidio;9;2017;Vivienda;SubsidioEntregado;14754340
+3 Empresas Pymes;3.2 VIP Estándar;12;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.8 Transaccional - Pensionado;4;2018;MS;SUPERMERCADOS;2097612
+4 Micro;4.8 Transaccional - Pensionado;5;2018;MS;DROGUERIAS;347860
+6 Otros;No Afiliada;12;2017;Vivienda;SubsidioAsignado;17609304790
+4 Micro;4.1 Estándar;10;2018;Salud;;11762600
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Club Bellavista;3732755
+2 Emp Medio;2.1 Gold;2;2018;RyT;Eventos y Convenciones;14008499
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Club El Cubo;412004
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2018;RyT;Hotel Paipa;1333630
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Otros;3302992
+4 Micro;4.8 Transaccional - Pensionado;10;2018;RyT;Programas Deportivos;30084
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Programas Deportivos;7002295
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Club la Colina;7697729
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Club El Cubo;407269536
+1 Emp Grandes;1.1 Platinum;2;2018;Educación y Cultura;EDUCACION INICIAL;10416937,51
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Club El Cubo;23146632
+4 Micro;4.5 Transaccional;5;2018;Educación y Cultura;Teatro;33045500
+6 Otros;No Afiliada;2;2017;Vivienda;Fecha Opcion;224800000
+6 Otros;No Afiliada;1;2018;MS;DROGUERIAS;297266388
+3 Empresas Pymes;3.2 VIP Estándar;12;2017;Vivienda;SubsidioEntregado;38388858
+4 Micro;4.5 Transaccional;12;2018;RyT;Club El Cubo;8113623
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2017;Vivienda;SubsidioAsignado;184429250
+6 Otros;No afiliada;7;2017;MS;DROGUERIAS;11006248
+4 Micro;4.1 Estándar;2;2018;RyT;Eventos y Convenciones;702938
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Club Calle 195;4434199
+4 Micro;4.8 Transaccional - Pensionado;9;2018;RyT;Programas Deportivos;30084
+1 Emp Grandes;1.1 Platinum;3;2018;Educación y Cultura;EDUCACION INICIAL;15434330
+2 Emp Medio;2.1 Gold;2;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;3593837
+2 Emp Medio;2.2 Silver;6;2018;RyT;Hotel Paipa;14878799
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Club Bellavista;25552797
+6 Otros;No Afiliada;9;2017;Vivienda;Fecha Promesa;4801050000
+4 Micro;4.5 Transaccional;7;2018;RyT;Club Bellavista;5604390
+3 Empresas Pymes;3.1 VIP;11;2018;AyB;CATERING;12915984
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Club El Cubo;78864771
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Club Bellavista;79129965
+5 Micro;5.1 Colsubsidio;1;2018;AyB;CATERING;863000
+5 Micro;5.1 Colsubsidio;1;2018;RyT;Hotel Bosques de Athan;-1911621
+6 Otros;No Afiliada;8;2018;RyT;Hotel Alcaravan;9041981
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2017;MS;SUPERMERCADOS;77224803
+1 Emp Grandes;1.1 Platinum;1;2018;Salud;CHEQUEOS;1179409
+3 Empresas Pymes;3.1 VIP;11;2018;Salud;;77720776
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Hotel Paipa;1292
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Club Bellavista;6226602
+4 Micro;4.7 Transaccional - Independiente;10;2018;RyT;Club Bellavista;1250782
+2 Emp Medio;2.2 Silver;8;2018;Salud;CHEQUEOS;5060362
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Eventos y Convenciones;56797646
+4 Micro;4.5 Transaccional;2;2017;Vivienda;SubsidioEntregado;523395430
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Hotel Peñalisa;0
+2 Emp Medio;2.2 Silver;6;2018;RyT;Otros;2297003
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Club Bellavista;2985150
+2 Emp Medio;2.1 Gold;5;2018;RyT;Piscilago;2951329
+6 Otros;No Afiliada;10;2018;MS;DROGUERIAS;462428611
+2 Emp Medio;2.2 Silver;10;2018;RyT;Programas Recreativos;54511739
+4 Micro;4.8 Transaccional - Pensionado;8;2018;RyT;Otros;10473517
+1 Emp Grandes;1.1 Platinum;7;2018;MS;SUPERMERCADOS;141754803
+4 Micro;4.6 Transaccional - Facultativo;4;2018;MS;DROGUERIAS;83758163
+3 Empresas Pymes;3.1 VIP;4;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1696929
+4 Micro;4.5 Transaccional;8;2018;RyT;Club la Colina;1121848
+6 Otros;No Afiliada;11;2017;Vivienda;SubsidioEntregado;11194944632
+3 Empresas Pymes;3.1 VIP;5;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;NA
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Club la Colina;4623766
+6 Otros;No Afiliada;1;2018;RyT;Club la Colina;3127705
+4 Micro;4.1 Estándar;10;2018;RyT;Club la Colina;3714352
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Hotel Bosques de Athan;10966576
+1 Emp Grandes;1.2 Premium;8;2018;Salud;;13151200
+2 Emp Medio;2.2 Silver;7;2018;RyT;Club la Colina;19437871
+2 Emp Medio;2.2 Silver;11;2018;MS;DROGUERIAS;643299138
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;MS;DROGUERIAS;66760037
+2 Emp Medio;2.1 Gold;12;2018;RyT;Hotel Bosques de Athan;35846680
+6 Otros;No Afiliada;2;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;3394137
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Club El Cubo;142942524
+2 Emp Medio;2.2 Silver;7;2018;Educación y Cultura;C+T;31286975
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Eventos y Convenciones;201028274
+6 Otros;No afiliada;10;2017;MS;SUPERMERCADOS;156133123
+4 Micro;4.1 Estándar;3;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;7008726
+4 Micro;4.6 Transaccional - Facultativo;8;2018;MS;SUPERMERCADOS;NA
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Hotel Paipa;14744920
+5 Micro;5.1 Colsubsidio;10;2018;RyT;Hotel Paipa;6662043
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;Salud;;180000
+4 Micro;4.5 Transaccional;12;2017;Vivienda;SubsidioEntregado;436588610
+6 Otros;No Afiliada;5;2017;RyT;;2424342431
+2 Emp Medio;2.2 Silver;6;2018;AyB;SALONES CALLE 26;527042
+6 Otros;No Afiliada;10;2018;RyT;Hotel Peñalisa;683630
+2 Emp Medio;2.1 Gold;6;2018;RyT;Hotel Peñalisa;-210336
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;Salud;;19723900
+2 Emp Medio;2.1 Gold;4;2018;Salud;CHEQUEOS;3395469
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Club El Cubo;41148305
+1 Emp Grandes;1.1 Platinum;3;2018;Salud;CHEQUEOS;3538227
+4 Micro;4.5 Transaccional;11;2017;MS;#;4003
+2 Emp Medio;2.1 Gold;3;2018;MS;SUPERMERCADOS;430684207
+6 Otros;No Afiliada;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;23454259
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;5;2018;Salud;;14384600
+3 Empresas Pymes;3.1 VIP;4;2018;Educación y Cultura;C+T;1575000
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Club la Colina;5688920
+6 Otros;No Afiliada;9;2017;Vivienda;Fecha Entrega;6476135020
+6 Otros;No Afiliada;3;2018;RyT;Hotel Alcaravan;2301241
+2 Emp Medio;2.1 Gold;2;2018;RyT;Otros;7239195
+6 Otros;No Afiliada;12;2017;Vivienda;Fecha Promesa;1306319936
+1 Emp Grandes;1.1 Platinum;1;2018;RyT;Programas Deportivos;41978520
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Hotel Peñalisa;2897508
+2 Emp Medio;2.2 Silver;8;2018;RyT;Club la Colina;46232927
+6 Otros;No Afiliada;2;2018;RyT;Programas Recreativos;3600000
+4 Micro;4.5 Transaccional;7;2018;RyT;Programas Deportivos;8671912
+4 Micro;4.7 Transaccional - Independiente;3;2017;MS;SUPERMERCADOS;732382
+6 Otros;No Afiliada;8;2018;MS;DROGUERIAS;517769801
+2 Emp Medio;2.1 Gold;11;2018;RyT;Club la Colina;19563700
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Eventos y Convenciones;386489994
+1 Emp Grandes;1.2 Premium;12;2018;RyT;Eventos y Convenciones;549284331
+4 Micro;4.1 Estándar;9;2018;Salud;;5696000
+6 Otros;No Afiliada;6;2018;RyT;Programas Recreativos;17319620
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Programas Recreativos;43969432
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2018;RyT;Club la Colina;9424621
+1 Emp Grandes;1.1 Platinum;7;2018;Educación y Cultura;ARTES;3552000
+6 Otros;No Afiliada;2;2017;Salud;EMPRESARIAL;284595251
+5 Micro;5.1 Colsubsidio;5;2018;AyB;CATERING;21049219
+4 Micro;4.8 Transaccional - Pensionado;1;2018;RyT;Programas Recreativos;-101346
+6 Otros;No Afiliada;10;2018;Educación y Cultura;Teatro;44288655
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2018;MS;SUPERMERCADOS;3088821
+4 Micro;4.1 Estándar;6;2018;RyT;Club El Cubo;2064984
+6 Otros;No Afiliada;8;2018;RyT;Hotel Paipa;49707493
+6 Otros;No Afiliada;3;2017;Vivienda;SubsidioAsignado;8685879958
+6 Otros;No Afiliada;11;2017;Salud;EMPRESARIAL;487187871
+2 Emp Medio;2.1 Gold;4;2017;Vivienda;Fecha Entrega;164940000
+6 Otros;No afiliada;7;2017;Vivienda;SubsidioAsignado;22131510
+6 Otros;No Afiliada;5;2018;RyT;Hotel Peñalisa;22267094
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Hotel Bosques de Athan;587555
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;3e+06
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;AyB;CATERING;165017
+6 Otros;No Afiliada;3;2018;RyT;Programas Recreativos;7937999
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Hotel Alcaravan;838811
+2 Emp Medio;2.1 Gold;1;2018;MS;SUPERMERCADOS;432558880
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;RyT;Hotel Alcaravan;14019247,55
+6 Otros;No Afiliada;7;2018;RyT;Hotel Paipa;22798422
+2 Emp Medio;2.2 Silver;8;2018;RyT;Otros;12241411
+1 Emp Grandes;1.1 Platinum;3;2018;MS;SUPERMERCADOS;158118710
+6 Otros;No Afiliada;3;2018;RyT;Piscilago;217755046
+6 Otros;No Afiliada;3;2017;MS;Sin asignar;17280
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Eventos y Convenciones;434979741
+4 Micro;4.5 Transaccional;6;2018;RyT;Otros;771014
+2 Emp Medio;2.2 Silver;7;2018;Educación y Cultura;Teatro;361400
+6 Otros;No Afiliada;10;2018;Salud;CHEQUEOS;2522742
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Club Calle 195;-15337040
+6 Otros;No Afiliada;2;2018;MS;DROGUERIAS;479804701
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Eventos y Convenciones;14170842
+4 Micro;4.8 Transaccional - Pensionado;9;2018;RyT;Club Bellavista;3054895
+4 Micro;4.7 Transaccional - Independiente;11;2018;MS;DROGUERIAS;1534766
+2 Emp Medio;2.1 Gold;2;2018;MS;DROGUERIAS;2747285
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Eventos y Convenciones;2421412
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Eventos y Convenciones;16277856
+4 Micro;4.5 Transaccional;1;2018;Salud;CHEQUEOS;1263100
+4 Micro;4.5 Transaccional;8;2017;Vivienda;Fecha Entrega;194500000
+6 Otros;No Afiliada;6;2018;RyT;Programas Deportivos;48806462
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;Vivienda;SubsidioAsignado;132789060
+6 Otros;No Afiliada;9;2018;MS;DROGUERIAS;410542606
+4 Micro;4.5 Transaccional;3;2018;Salud;;1874600
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;Educación y Cultura;Campus;2792857
+4 Micro;4.8 Transaccional - Pensionado;5;2018;RyT;Club la Colina;273672
+6 Otros;No afiliada;3;2017;Salud;EMPRESARIAL;3965900
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;AyB;CATERING;353982
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2017;RyT;;10084
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Programas Deportivos;59604391
+4 Micro;4.5 Transaccional;3;2018;RyT;Piscilago;11049665
+4 Micro;4.1 Estándar;9;2018;AyB;CATERING;1544928
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;MS;DROGUERIAS;6448919
+1 Emp Grandes;1.2 Premium;2;2018;RyT;Club Bellavista;3995811
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Hotel Alcaravan;13490348,38
+1 Emp Grandes;1.2 Premium;5;2018;MS;DROGUERIAS;35941628
+4 Micro;4.5 Transaccional;9;2017;Vivienda;SubsidioAsignado;466237144
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Programas Deportivos;65177661
+3 Empresas Pymes;3.1 VIP;2;2017;Vivienda;Fecha Entrega;170590000
+2 Emp Medio;2.2 Silver;9;2018;Salud;;23755100
+3 Empresas Pymes;3.1 VIP;7;2018;Salud;CHEQUEOS;10295441
+5 Micro;5.1 Colsubsidio;1;2018;Educación y Cultura;C+T;NA
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Programas Recreativos;13542000
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Piscilago;27930834
+4 Micro;4.5 Transaccional;3;2017;MS;#;116156
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;Salud;CHEQUEOS;4441535
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Programas Deportivos;3671908
+4 Micro;4.5 Transaccional;10;2017;Vivienda;SubsidioAsignado;835095644
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Hotel Bosques de Athan;1253789
+2 Emp Medio;2.1 Gold;8;2018;AyB;SALONES CALLE 26;2531047
+2 Emp Medio;2.2 Silver;2;2018;RyT;Otros;348372
+4 Micro;4.8 Transaccional - Pensionado;10;2018;RyT;Club Bellavista;738096
+6 Otros;No Afiliada;7;2017;Vivienda;Fecha Entrega;4605495310
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;4;2017;Salud;EMPRESARIAL;130700
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Club la Colina;59820296
+6 Otros;No afiliada;6;2017;MS;DROGUERIAS;17393775
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Programas Recreativos;253893932
+4 Micro;4.8 Transaccional - Pensionado;10;2018;MS;SUPERMERCADOS;1057520
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Otros;25248666
+2 Emp Medio;2.2 Silver;3;2018;RyT;Programas Deportivos;7385093
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Programas Recreativos;7450000
+3 Empresas Pymes;3.1 VIP;5;2018;Educación y Cultura;Campus;945000
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;Educación y Cultura;C+T;31088902,32
+2 Emp Medio;2.1 Gold;5;2018;RyT;Club El Cubo;17095781
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;Educación y Cultura;Teatro;13760400
+3 Empresas Pymes;3.2 VIP Estándar;8;2017;Vivienda;SubsidioEntregado;13789100
+4 Micro;4.5 Transaccional;12;2018;RyT;Eventos y Convenciones;47616028
+6 Otros;No Afiliada;7;2018;RyT;Eventos y Convenciones;21593430
+4 Micro;4.5 Transaccional;1;2018;RyT;Hotel Alcaravan;397754
+6 Otros;No Afiliada;9;2018;Educación y Cultura;LEO;450129617,77
+4 Micro;4.1 Estándar;9;2018;RyT;Club la Colina;2749407
+4 Micro;4.8 Transaccional - Pensionado;11;2017;MS;DROGUERIAS;1400390
+4 Micro;4.8 Transaccional - Pensionado;3;2017;MS;SUPERMERCADOS;209554
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Piscilago;35265545
+4 Micro;4.5 Transaccional;2;2018;RyT;Club El Cubo;6323655
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;3;2017;Vivienda;Fecha Entrega;191243150
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Programas Deportivos;143588103
+2 Emp Medio;2.1 Gold;7;2018;MS;SUPERMERCADOS;318887326
+6 Otros;No Afiliada;10;2018;RyT;Otros;7941198
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2017;Salud;EMPRESARIAL;448400
+4 Micro;4.2 Trans. Mas de 100 Trab.;10;2018;AyB;CATERING;99481
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Hotel Bosques de Athan;611665
+6 Otros;No Afiliada;2;2018;RyT;Eventos y Convenciones;29265519
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Hotel Peñalisa;3320379
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;RyT;Piscilago;14781910
+3 Empresas Pymes;3.1 VIP;6;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;950202
+4 Micro;4.5 Transaccional;11;2018;RyT;Eventos y Convenciones;26591361
+6 Otros;No Afiliada;10;2017;Salud;EMPRESARIAL;403491120
+6 Otros;No afiliada;11;2017;Salud;EMPRESARIAL;3056400
+4 Micro;4.1 Estándar;10;2017;MS;SUPERMERCADOS;13350
+6 Otros;No Afiliada;6;2017;Vivienda;SubsidioEntregado;7715778763
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Club El Cubo;77834897
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;RyT;Hotel Peñalisa;611665
+2 Emp Medio;2.1 Gold;6;2018;RyT;Programas Deportivos;29012914
+4 Micro;4.1 Estándar;7;2018;Salud;;11474050
+4 Micro;4.1 Estándar;11;2017;RyT;;40336
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Club Calle 195;810086
+2 Emp Medio;2.1 Gold;2;2018;RyT;Club la Colina;14278995
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2017;MS;DROGUERIAS;2873510
+2 Emp Medio;2.1 Gold;3;2018;RyT;Otros;4005308
+6 Otros;No Afiliada;8;2018;AyB;CATERING;33258614
+3 Empresas Pymes;3.1 VIP;1;2018;RyT;Club la Colina;1993148
+2 Emp Medio;2.1 Gold;1;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;106667
+6 Otros;No afiliada;4;2017;MS;#;351550
+6 Otros;No Afiliada;6;2017;Salud;EMPRESARIAL;240840825
+6 Otros;No Afiliada;7;2018;MS;DROGUERIAS;657985930
+1 Emp Grandes;1.2 Premium;4;2018;MS;DROGUERIAS;18541731
+1 Emp Grandes;1.1 Platinum;6;2018;RyT;Eventos y Convenciones;94301205
+6 Otros;No Afiliada;9;2018;RyT;Club la Colina;16433279
+4 Micro;4.7 Transaccional - Independiente;1;2018;RyT;Club Bellavista;687400
+1 Emp Grandes;1.1 Platinum;3;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;2677586
+4 Micro;4.1 Estándar;8;2018;RyT;Club El Cubo;3489346
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2018;Salud;;45000
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Eventos y Convenciones;109974791
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Eventos y Convenciones;84635355
+6 Otros;No Afiliada;4;2018;MS;SUPERMERCADOS;1863158502
+6 Otros;No Afiliada;12;2017;Vivienda;Fecha Opcion;10335244400
+2 Emp Medio;2.1 Gold;4;2018;RyT;Programas Recreativos;3881000
+3 Empresas Pymes;3.1 VIP;1;2018;MS;DROGUERIAS;23874233
+6 Otros;No Afiliada;4;2018;RyT;Programas Deportivos;134755815
+6 Otros;No Afiliada;3;2017;MS;DROGUERIAS;3776720166
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Eventos y Convenciones;55469678
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2017;Vivienda;SubsidioEntregado;120378855
+4 Micro;4.1 Estándar;1;2018;RyT;Club la Colina;7532034
+4 Micro;4.2 Trans. Mas de 100 Trab.;11;2017;Vivienda;SubsidioAsignado;36885850
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Eventos y Convenciones;55347515
+4 Micro;4.7 Transaccional - Independiente;2;2018;Salud;CHEQUEOS;1664877
+5 Micro;5.1 Colsubsidio;10;2017;Vivienda;SubsidioEntregado;13853525
+4 Micro;4.5 Transaccional;6;2018;RyT;Club Bellavista;10530780
+6 Otros;No Afiliada;10;2017;Vivienda;SubsidioAsignado;10083853673
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Eventos y Convenciones;1891834
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Piscilago;6792788
+6 Otros;No Afiliada;6;2018;RyT;Hotel Bosques de Athan;0
+4 Micro;4.1 Estándar;12;2017;Vivienda;SubsidioEntregado;20683650
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;Educación y Cultura;EDUCACION INICIAL;4140000
+6 Otros;No Afiliada;11;2017;MS;SUPERMERCADOS;10010480672
+2 Emp Medio;2.1 Gold;5;2018;RyT;Hotel Paipa;343062
+6 Otros;No Afiliada;2;2017;Vivienda;Fecha Entrega;29451612838
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Programas Deportivos;826286
+2 Emp Medio;2.2 Silver;11;2018;RyT;Eventos y Convenciones;323030840
+4 Micro;4.5 Transaccional;7;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;297260
+2 Emp Medio;2.2 Silver;7;2018;RyT;Piscilago;56142473
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Programas Recreativos;3632378
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Club Calle 195;20835367
+6 Otros;No Afiliada;5;2017;Vivienda;SubsidioAsignado;6702896662
+2 Emp Medio;2.2 Silver;2;2018;Salud;;14985250
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Eventos y Convenciones;6617987
+4 Micro;4.5 Transaccional;9;2017;MS;SUPERMERCADOS;92642556
+4 Micro;4.5 Transaccional;4;2018;RyT;Club la Colina;496638
+5 Micro;5.1 Colsubsidio;11;2017;Vivienda;Fecha Entrega;197322000
+4 Micro;4.1 Estándar;11;2018;RyT;Programas Deportivos;33160231
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2017;Vivienda;SubsidioEntregado;14754340
+6 Otros;No Afiliada;3;2017;RyT;;1396792590
+5 Micro;5.1 Colsubsidio;12;2018;RyT;Hotel Peñalisa;42185
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Hotel Peñalisa;5299635
+3 Empresas Pymes;3.1 VIP;5;2018;Salud;CHEQUEOS;8455831
+4 Micro;4.5 Transaccional;10;2017;MS;#;3752345
+1 Emp Grandes;1.1 Platinum;5;2018;MS;SUPERMERCADOS;134919309
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Club El Cubo;20436344
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Programas Recreativos;24912932
+2 Emp Medio;2.1 Gold;8;2018;AyB;CATERING;44679873
+6 Otros;No Afiliada;4;2017;Salud;EMPRESARIAL;282333250
+6 Otros;No Afiliada;4;2017;Vivienda;SubsidioAsignado;12111099989
+4 Micro;4.2 Trans. Mas de 100 Trab.;9;2017;Vivienda;SubsidioAsignado;22131510
+4 Micro;4.5 Transaccional;9;2018;Educación y Cultura;Campus;55280
+6 Otros;No Afiliada;8;2017;MS;#;256959617
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Club Bellavista;523097
+3 Empresas Pymes;3.1 VIP;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;418001
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;MS;SUPERMERCADOS;208506065
+3 Empresas Pymes;3.1 VIP;1;2018;MS;SUPERMERCADOS;701787258
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;RyT;Club El Cubo;3939883
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Club Calle 195;3257672
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;RyT;Hotel Peñalisa;12585838
+2 Emp Medio;2.2 Silver;5;2018;RyT;Club Bellavista;46557885
+6 Otros;No Afiliada;2;2017;Vivienda;SubsidioEntregado;NA
+4 Micro;4.1 Estándar;2;2018;AyB;CATERING;1719496
+4 Micro;4.1 Estándar;9;2018;MS;SUPERMERCADOS;67845862
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2017;MS;DROGUERIAS;4021733
+6 Otros;No afiliada;1;2017;MS;SUPERMERCADOS;133199889
+6 Otros;No Afiliada;11;2018;RyT;Programas Recreativos;264098992
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;RyT;Club El Cubo;27890792
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Piscilago;2431482
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Club la Colina;1118171
+1 Emp Grandes;1.2 Premium;4;2018;MS;SUPERMERCADOS;155221222
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Hotel Bosques de Athan;25695770
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Hotel Peñalisa;73611
+3 Empresas Pymes;3.1 VIP;11;2018;RyT;Club Bellavista;7001167
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Eventos y Convenciones;97850533
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;RyT;Club la Colina;5530200
+4 Micro;4.1 Estándar;4;2018;Salud;;14528550
+1 Emp Grandes;1.1 Platinum;6;2018;Salud;;0
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2017;Vivienda;SubsidioAsignado;151231985
+4 Micro;4.7 Transaccional - Independiente;5;2017;MS;SUPERMERCADOS;1700401
+1 Emp Grandes;1.1 Platinum;2;2018;Salud;;10788000
+2 Emp Medio;2.1 Gold;7;2018;RyT;Club El Cubo;37677378
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Club la Colina;11431285
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Club Bellavista;32093823
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;RyT;Club la Colina;201015
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Hotel Alcaravan;790111
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Hotel Bosques de Athan;53707522
+6 Otros;No Afiliada;5;2018;RyT;Hotel Paipa;240921264
+4 Micro;4.5 Transaccional;4;2017;MS;#;10752262
+4 Micro;4.8 Transaccional - Pensionado;5;2018;MS;SUPERMERCADOS;857092
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Eventos y Convenciones;4563859
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Club Bellavista;19457113
+5 Micro;5.1 Colsubsidio;4;2018;RyT;Club la Colina;21869456
+6 Otros;No Afiliada;4;2018;Salud;CHEQUEOS;4865662
+2 Emp Medio;2.1 Gold;10;2018;RyT;Programas Recreativos;17731315
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Hotel Paipa;18384127
+2 Emp Medio;2.2 Silver;6;2018;RyT;Club la Colina;15844409
+5 Micro;5.1 Colsubsidio;6;2018;RyT;Club Bellavista;-18444978
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Hotel Paipa;10841893
+4 Micro;4.2 Trans. Mas de 100 Trab.;5;2017;Vivienda;SubsidioEntregado;12936000
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Piscilago;176395509
+4 Micro;4.5 Transaccional;4;2017;MS;SUPERMERCADOS;111181794
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Hotel Bosques de Athan;7282399
+6 Otros;No Afiliada;6;2018;Educación y Cultura;Campus;22245000
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Hotel Peñalisa;2993978
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Piscilago;17840714
+2 Emp Medio;2.2 Silver;3;2018;RyT;Piscilago;3539758
+4 Micro;4.1 Estándar;5;2018;RyT;Programas Deportivos;1118388
+1 Emp Grandes;1.1 Platinum;10;2018;Educación y Cultura;ARTES;18475950
+2 Emp Medio;2.2 Silver;2;2018;RyT;Piscilago;11831687
+5 Micro;5.1 Colsubsidio;3;2018;RyT;Club la Colina;2678755
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Hotel Peñalisa;1237239
+4 Micro;4.2 Trans. Mas de 100 Trab.;4;2018;RyT;Club la Colina;148487
+6 Otros;No Afiliada;6;2018;MS;DROGUERIAS;428252131
+3 Empresas Pymes;3.1 VIP;10;2018;RyT;Club la Colina;7853398
+4 Micro;4.1 Estándar;8;2018;Salud;;7787200
+4 Micro;4.5 Transaccional;11;2017;MS;SUPERMERCADOS;111048466
+2 Emp Medio;2.2 Silver;2;2017;Vivienda;SubsidioEntregado;20683650
+6 Otros;No afiliada;12;2017;MS;DROGUERIAS;9600280
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;7;2017;MS;SUPERMERCADOS;2178284
+1 Emp Grandes;1.2 Premium;2;2017;Vivienda;Fecha Entrega;186152000
+2 Emp Medio;2.2 Silver;4;2018;RyT;Eventos y Convenciones;9362690
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;12;2017;Vivienda;SubsidioEntregado;86924838
+2 Emp Medio;2.1 Gold;12;2018;RyT;Programas Recreativos;231467413
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;4;2018;MS;SUPERMERCADOS;94490824
+2 Emp Medio;2.1 Gold;6;2018;Salud;;6866016
+3 Empresas Pymes;3.2 VIP Estándar;11;2017;MS;SUPERMERCADOS;309120
+4 Micro;4.5 Transaccional;12;2017;MS;DROGUERIAS;85212629
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Club Bellavista;21361999
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;MS;SUPERMERCADOS;246443573
+2 Emp Medio;2.2 Silver;5;2018;RyT;Hotel Peñalisa;10546111
+4 Micro;4.5 Transaccional;9;2018;RyT;Programas Deportivos;9293071
+4 Micro;4.1 Estándar;4;2018;RyT;Eventos y Convenciones;2570400
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Club El Cubo;14931429
+2 Emp Medio;2.2 Silver;6;2018;RyT;Piscilago;90156387
+5 Micro;5.1 Colsubsidio;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;39078000
+4 Micro;4.5 Transaccional;10;2018;MS;SUPERMERCADOS;355827602
+2 Emp Medio;2.2 Silver;7;2018;RyT;Programas Deportivos;55656004
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Hotel Paipa;13050904
+6 Otros;No Afiliada;4;2017;MS;SUPERMERCADOS;9213503520
+6 Otros;No Afiliada;11;2017;Vivienda;Fecha Opcion;6828287170
+3 Empresas Pymes;3.1 VIP;4;2018;MS;DROGUERIAS;27081662
+4 Micro;4.5 Transaccional;10;2018;RyT;Hotel Bosques de Athan;162711580
+1 Emp Grandes;1.1 Platinum;9;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;85680000
+6 Otros;No Afiliada;9;2018;RyT;Eventos y Convenciones;24582793
+4 Micro;4.5 Transaccional;5;2017;Vivienda;SubsidioAsignado;292873649
+2 Emp Medio;2.2 Silver;7;2018;RyT;Eventos y Convenciones;129780574
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Club la Colina;30777682
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Piscilago;205556
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Hotel Paipa;5163096
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2018;MS;DROGUERIAS;5194429
+6 Otros;No Afiliada;3;2018;RyT;Club Bellavista;83326548
+6 Otros;No Afiliada;2;2018;RyT;Hotel Bosques de Athan;8236062
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Eventos y Convenciones;20505839
+2 Emp Medio;2.1 Gold;7;2018;Salud;;16495200
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;Salud;CHEQUEOS;15055839
+3 Empresas Pymes;3.1 VIP;7;2018;RyT;Club la Colina;5452206
+4 Micro;4.5 Transaccional;10;2018;RyT;Club Bellavista;1679488
+1 Emp Grandes;1.1 Platinum;4;2018;MS;SUPERMERCADOS;130576226
+4 Micro;4.1 Estándar;8;2018;AyB;SALONES CALLE 26;566868
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Programas Recreativos;44943507
+1 Emp Grandes;1.1 Platinum;4;2018;RyT;Eventos y Convenciones;5570250
+3 Empresas Pymes;3.1 VIP;4;2018;Salud;CHEQUEOS;22996455
+6 Otros;No Afiliada;10;2018;MS;SUPERMERCADOS;8024126794
+4 Micro;4.7 Transaccional - Independiente;12;2017;MS;SUPERMERCADOS;1385663
+4 Micro;4.6 Transaccional - Facultativo;12;2017;MS;DROGUERIAS;161550
+6 Otros;No Afiliada;2;2018;AyB;CATERING;13609145
+6 Otros;No afiliada;8;2017;Salud;EMPRESARIAL;1172500
+3 Empresas Pymes;3.2 VIP Estándar;12;2018;RyT;Hotel Bosques de Athan;30454488
+4 Micro;4.5 Transaccional;5;2018;RyT;Eventos y Convenciones;12639198
+6 Otros;No Afiliada;1;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;775197,35
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;12;2018;RyT;Club Bellavista;52114440
+1 Emp Grandes;1.2 Premium;9;2018;MS;SUPERMERCADOS;184467709
+4 Micro;4.1 Estándar;10;2018;RyT;Eventos y Convenciones;9026300
+2 Emp Medio;2.2 Silver;7;2018;AyB;CATERING;18008717
+3 Empresas Pymes;3.1 VIP;3;2018;Salud;;64892600
+2 Emp Medio;2.2 Silver;1;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;838959,36
+6 Otros;No Afiliada;12;2018;RyT;Hotel Alcaravan;95831096
+4 Micro;4.1 Estándar;3;2018;MS;SUPERMERCADOS;73385088
+2 Emp Medio;2.2 Silver;11;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;6850737
+2 Emp Medio;2.1 Gold;11;2018;AyB;CATERING;32159525
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;2;2018;RyT;Hotel Peñalisa;16439035
+4 Micro;4.6 Transaccional - Facultativo;1;2018;MS;SUPERMERCADOS;2035314444
+4 Micro;4.5 Transaccional;5;2018;RyT;Programas Recreativos;12271429
+1 Emp Grandes;1.2 Premium;6;2018;Salud;;13332800
+3 Empresas Pymes;3.1 VIP;6;2018;AyB;SALONES CALLE 26;380501
+3 Empresas Pymes;3.1 VIP;9;2018;Salud;CHEQUEOS;19188119
+6 Otros;No Afiliada;12;2018;RyT;Club la Colina;60198991
+5 Micro;5.1 Colsubsidio;4;2018;RyT;Club Bellavista;0
+6 Otros;No Afiliada;1;2018;MS;SUPERMERCADOS;1533455572
+2 Emp Medio;2.1 Gold;8;2018;RyT;Eventos y Convenciones;343470356
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Hotel Paipa;50556
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Otros;165017
+2 Emp Medio;2.2 Silver;10;2018;RyT;Hotel Paipa;3506941
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Club Bellavista;3877017
+2 Emp Medio;2.1 Gold;5;2018;RyT;Club la Colina;11976006
+1 Emp Grandes;1.2 Premium;5;2018;Salud;;14372100
+1 Emp Grandes;1.2 Premium;3;2018;RyT;Programas Deportivos;13501828
+3 Empresas Pymes;3.1 VIP;12;2018;Educación y Cultura;TEATRO;72432100
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Club El Cubo;69294436
+2 Emp Medio;2.1 Gold;8;2018;RyT;Programas Recreativos;123900358
+4 Micro;4.8 Transaccional - Pensionado;11;2017;MS;SUPERMERCADOS;416836
+4 Micro;4.8 Transaccional - Pensionado;7;2017;MS;SUPERMERCADOS;119591
+4 Micro;4.7 Transaccional - Independiente;3;2017;MS;DROGUERIAS;1783943
+1 Emp Grandes;1.2 Premium;6;2018;RyT;Club la Colina;43442311
+6 Otros;No Afiliada;6;2018;RyT;Club Bellavista;172665250
+6 Otros;No Afiliada;5;2017;MS;#;313295558
+6 Otros;No Afiliada;9;2017;Vivienda;Fecha Opcion;1982312820
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Piscilago;25836667
+2 Emp Medio;2.2 Silver;3;2018;RyT;Club Bellavista;6738510
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Club El Cubo;118538861
+6 Otros;No Afiliada;12;2017;Vivienda;Fecha Entrega;20149597184
+2 Emp Medio;2.2 Silver;10;2018;RyT;Programas Deportivos;177311606
+4 Micro;4.8 Transaccional - Pensionado;7;2017;MS;DROGUERIAS;2186531
+4 Micro;4.5 Transaccional;1;2018;Educación y Cultura;TEATRO;92447530
+3 Empresas Pymes;3.1 VIP;4;2018;MS;SUPERMERCADOS;530079846
+3 Empresas Pymes;3.1 VIP;12;2018;RyT;Programas Deportivos;133080717
+2 Emp Medio;2.1 Gold;7;2018;RyT;Otros;8846113
+4 Micro;4.1 Estándar;6;2018;RyT;Eventos y Convenciones;3750600
+2 Emp Medio;2.1 Gold;1;2018;RyT;Otros;2074074
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1851471
+6 Otros;No Afiliada;7;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1205981
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Otros;15359298
+2 Emp Medio;2.2 Silver;12;2018;RyT;Otros;23893018
+1 Emp Grandes;1.2 Premium;3;2018;MS;SUPERMERCADOS;211437326
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;3;2018;Salud;;17935100
+6 Otros;No Afiliada;4;2018;MS;DROGUERIAS;425500891
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;6;2018;RyT;Club la Colina;2784873
+4 Micro;4.5 Transaccional;9;2017;Vivienda;Fecha Promesa;516170000
+6 Otros;No afiliada;2;2017;MS;DROGUERIAS;8002769
+4 Micro;4.8 Transaccional - Pensionado;10;2018;MS;DROGUERIAS;2775771
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2017;MS;SUPERMERCADOS;1491475
+3 Empresas Pymes;3.1 VIP;7;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;1407632
+6 Otros;No Afiliada;5;2018;Salud;;36661338
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Hotel Alcaravan;41754624
+4 Micro;4.8 Transaccional - Pensionado;7;2018;MS;SUPERMERCADOS;498824
+4 Micro;4.5 Transaccional;11;2018;RyT;Club la Colina;20651015
+6 Otros;No Afiliada;11;2017;MS;DROGUERIAS;993370157
+3 Empresas Pymes;3.1 VIP;6;2018;Educación y Cultura;Teatro;16739600
+1 Emp Grandes;1.1 Platinum;5;2018;Salud;CHEQUEOS;2358818
+4 Micro;4.7 Transaccional - Independiente;6;2017;MS;DROGUERIAS;1408498
+1 Emp Grandes;1.2 Premium;6;2018;Salud;CHEQUEOS;3940000
+1 Emp Grandes;1.1 Platinum;10;2018;AyB;CATERING;50239718
+4 Micro;4.5 Transaccional;4;2017;Salud;EMPRESARIAL;19900
+1 Emp Grandes;1.1 Platinum;2;2018;Educación y Cultura;TEATRO;3324200
+1 Emp Grandes;1.2 Premium;11;2018;RyT;Programas Recreativos;117435864
+2 Emp Medio;2.1 Gold;10;2018;RyT;Hotel Bosques de Athan;0
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Hotel Bosques de Athan;0
+2 Emp Medio;2.2 Silver;1;2018;RyT;Hotel Peñalisa;25512188
+4 Micro;4.1 Estándar;10;2017;MS;DROGUERIAS;89650
+6 Otros;No Afiliada;11;2018;RyT;Hotel Alcaravan;60977416
+2 Emp Medio;2.1 Gold;1;2018;RyT;Programas Recreativos;1177472
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Programas Deportivos;304507119
+4 Micro;4.6 Transaccional - Facultativo;5;2018;MS;DROGUERIAS;79239017
+6 Otros;No Afiliada;5;2017;Salud;EMPRESARIAL;356928826
+2 Emp Medio;2.2 Silver;12;2018;RyT;Club El Cubo;108868231
+4 Micro;4.5 Transaccional;12;2017;MS;SUPERMERCADOS;174121150
+4 Micro;4.1 Estándar;12;2018;RyT;Hotel Bosques de Athan;0
+4 Micro;4.7 Transaccional - Independiente;12;2018;RyT;Piscilago;815503
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2018;MS;DROGUERIAS;2041639
+2 Emp Medio;2.2 Silver;4;2018;AyB;CATERING;25519464
+1 Emp Grandes;1.1 Platinum;4;2018;Educación y Cultura;ARTES;2816198
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2018;MS;DROGUERIAS;2613136
+4 Micro;4.5 Transaccional;10;2018;RyT;Hotel Peñalisa;295579680
+4 Micro;4.1 Estándar;5;2018;MS;SUPERMERCADOS;65024415
+2 Emp Medio;2.1 Gold;10;2018;RyT;Hotel Peñalisa;2333869
+3 Empresas Pymes;3.1 VIP;9;2018;RyT;Hotel Alcaravan;165093
+4 Micro;4.1 Estándar;7;2017;MS;DROGUERIAS;218750
+5 Micro;5.1 Colsubsidio;11;2018;RyT;Hotel Alcaravan;-7500
+3 Empresas Pymes;3.1 VIP;8;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;580000
+3 Empresas Pymes;3.1 VIP;8;2018;AyB;CATERING;24015509
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;AyB;CATERING;23432599
+6 Otros;No afiliada;6;2017;Salud;EMPRESARIAL;5485100
+3 Empresas Pymes;3.1 VIP;7;2018;MS;SUPERMERCADOS;551744524
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Piscilago;19612815
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Club la Colina;61221299
+4 Micro;4.5 Transaccional;10;2018;RyT;Piscilago;75461967
+2 Emp Medio;2.1 Gold;11;2018;Salud;CHEQUEOS;41051106
+6 Otros;No Afiliada;10;2018;RyT;Programas Recreativos;32592066
+4 Micro;4.5 Transaccional;1;2018;RyT;Hotel Peñalisa;676471
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;9;2018;RyT;Hotel Peñalisa;611665
+1 Emp Grandes;1.2 Premium;5;2018;RyT;Club El Cubo;41579409
+3 Empresas Pymes;3.1 VIP;2;2018;RyT;Club Bellavista;2491554
+3 Empresas Pymes;3.1 VIP;11;2018;MS;DROGUERIAS;46668718
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Piscilago;94354631
+1 Emp Grandes;1.1 Platinum;7;2018;Salud;CHEQUEOS;15312452
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Club la Colina;6832948
+3 Empresas Pymes;3.1 VIP;6;2018;AyB;CATERING;40478698
+6 Otros;No Afiliada;9;2018;RyT;Hotel Paipa;51303977
+4 Micro;4.5 Transaccional;4;2018;RyT;Hotel Peñalisa;676471
+6 Otros;No Afiliada;9;2018;RyT;Programas Deportivos;54579518
+1 Emp Grandes;1.1 Platinum;12;2018;RyT;Club Bellavista;950608385
+4 Micro;4.5 Transaccional;12;2018;RyT;Hotel Paipa;27999845
+2 Emp Medio;2.1 Gold;12;2018;RyT;Hotel Paipa;616622
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;11;2018;RyT;Club El Cubo;848661
+6 Otros;No Afiliada;2;2017;Vivienda;SubsidioAsignado;4398268754
+4 Micro;4.1 Estándar;10;2018;MS;SUPERMERCADOS;108191996
+1 Emp Grandes;1.1 Platinum;6;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;56286941
+3 Empresas Pymes;3.2 VIP Estándar;5;2018;MS;DROGUERIAS;71059469
+2 Emp Medio;2.2 Silver;12;2017;Vivienda;SubsidioAsignado;44263020
+4 Micro;4.5 Transaccional;5;2018;RyT;Club la Colina;2002098
+4 Micro;4.7 Transaccional - Independiente;1;2017;Vivienda;Fecha Entrega;151522000
+5 Micro;5.1 Colsubsidio;6;2018;RyT;Hotel Paipa;1159630
+6 Otros;No afiliada;8;2017;MS;SUPERMERCADOS;75440666
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;MS;SUPERMERCADOS;2695502
+4 Micro;4.2 Trans. Mas de 100 Trab.;2;2018;RyT;Club El Cubo;196891
+6 Otros;No Afiliada;12;2018;RyT;Club Bellavista;170849634
+3 Empresas Pymes;3.2 VIP Estándar;10;2018;Salud;;38935150
+4 Micro;4.1 Estándar;9;2018;RyT;Hotel Peñalisa;853923
+2 Emp Medio;2.1 Gold;3;2018;RyT;Programas Deportivos;35142124
+3 Empresas Pymes;3.1 VIP;3;2017;MS;SUPERMERCADOS;673708
+5 Micro;5.1 Colsubsidio;2;2018;RyT;Hotel Peñalisa;5064195
+6 Otros;No Afiliada;10;2017;Vivienda;SubsidioEntregado;11327741994
+3 Empresas Pymes;3.2 VIP Estándar;6;2018;RyT;Hotel Bosques de Athan;840959
+4 Micro;4.7 Transaccional - Independiente;8;2017;MS;SUPERMERCADOS;730960
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Piscilago;19104372
+6 Otros;No Afiliada;3;2018;RyT;Hotel Peñalisa;11560023
+6 Otros;No Afiliada;2;2018;Educación y Cultura;Teatro;116000
+6 Otros;No Afiliada;1;2018;Educación y Cultura;EDUCACION INICIAL;708506034,18
+3 Empresas Pymes;3.2 VIP Estándar;7;2018;AyB;CATERING;1764284
+6 Otros;No Afiliada;12;2018;RyT;Programas Deportivos;181660469
+2 Emp Medio;2.2 Silver;8;2018;RyT;Piscilago;44120441
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Piscilago;-18728898
+1 Emp Grandes;1.2 Premium;1;2017;Vivienda;Fecha Entrega;166980000
+2 Emp Medio;2.2 Silver;7;2018;AyB;SALONES CALLE 26;3692660
+6 Otros;No afiliada;10;2017;Vivienda;SubsidioEntregado;20683650
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Otros;1818761
+3 Empresas Pymes;3.1 VIP;7;2018;AyB;CATERING;31011359
+4 Micro;4.5 Transaccional;11;2017;MS;DROGUERIAS;81452186
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;Salud;;47760850
+2 Emp Medio;2.2 Silver;9;2018;Educación y Cultura;TEATRO;14778443,4
+4 Micro;4.7 Transaccional - Independiente;7;2017;MS;SUPERMERCADOS;135484
+1 Emp Grandes;1.2 Premium;1;2018;Salud;;60601299
+2 Emp Medio;2.1 Gold;3;2018;RyT;Programas Recreativos;11815641
+4 Micro;4.5 Transaccional;6;2017;MS;#;75910
+4 Micro;4.1 Estándar;11;2017;Vivienda;SubsidioEntregado;48006753
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Club Bellavista;23525147
+2 Emp Medio;2.2 Silver;12;2018;RyT;Programas Deportivos;68904789
+6 Otros;No Afiliada;7;2018;RyT;Club Calle 195;3899000
+6 Otros;No Afiliada;1;2017;MS;#;646297798
+2 Emp Medio;2.2 Silver;8;2018;RyT;Club Bellavista;30783131
+4 Micro;4.6 Transaccional - Facultativo;8;2017;MS;DROGUERIAS;40350
+5 Micro;5.1 Colsubsidio;12;2017;Vivienda;Fecha Entrega;181322000
+4 Micro;4.1 Estándar;2;2018;MS;SUPERMERCADOS;56236945
+4 Micro;4.8 Transaccional - Pensionado;1;2018;MS;DROGUERIAS;668907
+1 Emp Grandes;1.1 Platinum;10;2018;RyT;Eventos y Convenciones;40761462
+4 Micro;4.5 Transaccional;11;2017;Vivienda;SubsidioEntregado;483947087
+4 Micro;4.8 Transaccional - Pensionado;5;2018;RyT;Programas Deportivos;120336
+2 Emp Medio;2.2 Silver;4;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;1994422
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Programas Deportivos;190252286
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Programas Recreativos;188908879
+2 Emp Medio;2.2 Silver;10;2018;RyT;Eventos y Convenciones;203043663
+4 Micro;4.7 Transaccional - Independiente;9;2017;MS;DROGUERIAS;1939440
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;1;2017;MS;DROGUERIAS;9590
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;AyB;CATERING;1825994
+3 Empresas Pymes;3.1 VIP;3;2018;RyT;Hotel Alcaravan;19969371
+4 Micro;4.5 Transaccional;1;2017;Vivienda;SubsidioEntregado;205595560
+4 Micro;4.5 Transaccional;3;2017;MS;SUPERMERCADOS;104967860
+6 Otros;No Afiliada;3;2018;MS;DROGUERIAS;445684445
+4 Micro;4.2 Trans. Mas de 100 Trab.;6;2017;Vivienda;SubsidioAsignado;18442925
+4 Micro;4.5 Transaccional;7;2018;RyT;Programas Recreativos;2480964
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;6;2018;MS;SUPERMERCADOS;4014622
+1 Emp Grandes;1.1 Platinum;12;2018;Salud;CHEQUEOS;60646776
+4 Micro;4.1 Estándar;12;2017;Vivienda;SubsidioAsignado;18442925
+6 Otros;No Afiliada;8;2018;RyT;Otros;9916365
+4 Micro;4.5 Transaccional;9;2018;Educación y Cultura;TEATRO;39324145
+6 Otros;No Afiliada;8;2017;MS;SUPERMERCADOS;10117205314
+1 Emp Grandes;1.2 Premium;7;2018;RyT;Programas Recreativos;46460681
+6 Otros;No Afiliada;1;2018;Salud;;45252215
+1 Emp Grandes;1.1 Platinum;7;2018;Salud;;9927800
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;1;2018;MS;SUPERMERCADOS;5497626
+2 Emp Medio;2.2 Silver;4;2018;RyT;Club la Colina;22934729
+2 Emp Medio;2.1 Gold;10;2018;MS;DROGUERIAS;3243903
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Hotel Paipa;1384540
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;Educación y Cultura;ASESORIAS PARA LA CALIDAD;NA
+6 Otros;No Afiliada;6;2018;AyB;CATERING;7178699
+1 Emp Grandes;1.1 Platinum;1;2018;MS;SUPERMERCADOS;112534997
+3 Empresas Pymes;3.1 VIP;11;2018;Salud;CHEQUEOS;1664893
+6 Otros;No Afiliada;2;2017;Educacion;DPTO CULTURA Y BILBIOTECAS;13982513
+6 Otros;No Afiliada;7;2018;RyT;Piscilago;424233662
+3 Empresas Pymes;3.1 VIP;4;2018;RyT;Club El Cubo;10107266
+2 Emp Medio;2.2 Silver;10;2018;RyT;Hotel Peñalisa;0
+1 Emp Grandes;1.1 Platinum;5;2018;RyT;Eventos y Convenciones;37668518
+6 Otros;No Afiliada;11;2018;Educación y Cultura;Teatro;17368100
+6 Otros;No Afiliada;2;2017;Educacion;OTROS FACTURAC. EDU;81888496
+3 Empresas Pymes;3.1 VIP;9;2018;AyB;CATERING;51034836
+2 Emp Medio;2.1 Gold;10;2018;RyT;Club El Cubo;52728800
+6 Otros;No Afiliada;12;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;NA
+1 Emp Grandes;1.1 Platinum;2;2018;RyT;Programas Deportivos;3565209
+4 Micro;4.1 Estándar;4;2018;MS;DROGUERIAS;399805
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;RyT;Club Calle 195;356468
+1 Emp Grandes;1.1 Platinum;11;2018;Salud;CHEQUEOS;10968570
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Club la Colina;60265167
+2 Emp Medio;2.2 Silver;10;2018;RyT;Otros;13985850
+4 Micro;4.1 Estándar;4;2018;RyT;Club Bellavista;2350813
+6 Otros;No Afiliada;6;2017;MS;DROGUERIAS;2067077815
+3 Empresas Pymes;3.1 VIP;5;2017;MS;DROGUERIAS;81100
+6 Otros;No Afiliada;7;2018;RyT;Programas Recreativos;60187474
+6 Otros;No Afiliada;12;2018;RyT;Hotel Paipa;30323277
+4 Micro;4.5 Transaccional;2;2018;RyT;Piscilago;15024313
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Programas Deportivos;240111659
+2 Emp Medio;2.1 Gold;3;2018;AyB;CATERING;89800633
+3 Empresas Pymes;3.2 VIP Estándar;4;2017;Vivienda;Fecha Entrega;96523700
+3 Empresas Pymes;3.2 VIP Estándar;2;2018;RyT;Piscilago;-207694
+4 Micro;4.1 Estándar;5;2017;MS;DROGUERIAS;218750
+4 Micro;4.1 Estándar;10;2018;RyT;Otros;177778
+6 Otros;No Afiliada;8;2018;RyT;Hotel Bosques de Athan;1448889
+4 Micro;4.5 Transaccional;8;2018;RyT;Hotel Bosques de Athan;509259
+1 Emp Grandes;1.2 Premium;4;2018;RyT;Programas Deportivos;9678230
+2 Emp Medio;2.1 Gold;3;2018;RyT;Eventos y Convenciones;24563210
+3 Empresas Pymes;3.1 VIP;3;2018;MS;SUPERMERCADOS;640926887
+4 Micro;4.1 Estándar;3;2018;RyT;Club Bellavista;1210406
+4 Micro;4.1 Estándar;11;2018;RyT;Eventos y Convenciones;5758412
+3 Empresas Pymes;3.1 VIP;4;2018;Salud;;71435660
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;Salud;;24189850
+2 Emp Medio;2.1 Gold;7;2018;Educación y Cultura;ARTES;5156696
+6 Otros;No Afiliada;10;2017;Vivienda;Fecha Promesa;206468000
+1 Emp Grandes;1.1 Platinum;6;2018;Educación y Cultura;TEATRO;85680000
+3 Empresas Pymes;3.1 VIP;6;2018;RyT;Eventos y Convenciones;70266587
+2 Emp Medio;2.1 Gold;8;2018;RyT;Programas Deportivos;65575837
+2 Emp Medio;2.1 Gold;6;2018;AyB;CATERING;34466608
+4 Micro;4.2 Trans. Mas de 100 Trab.;12;2017;Vivienda;SubsidioAsignado;33197265
+1 Emp Grandes;1.1 Platinum;8;2018;RyT;Club la Colina;50567742
+4 Micro;4.1 Estándar;3;2018;RyT;Programas Recreativos;1788000
+1 Emp Grandes;1.1 Platinum;1;2018;Salud;;19667400
+2 Emp Medio;2.2 Silver;4;2018;MS;SUPERMERCADOS;5449883047
+4 Micro;4.1 Estándar;2;2018;RyT;Otros;801331
+4 Micro;4.5 Transaccional;10;2017;MS;DROGUERIAS;376536351
+3 Empresas Pymes;3.1 VIP;7;2017;MS;SUPERMERCADOS;1118550
+6 Otros;No Afiliada;3;2018;AyB;CATERING;13946986
+3 Empresas Pymes;3.1 VIP;5;2018;RyT;Piscilago;94082530
+4 Micro;4.1 Estándar;2;2018;MS;DROGUERIAS;109575
+6 Otros;No Afiliada;3;2017;CS-CONVENIOS;CS-CONVENIOS;67421276
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Club la Colina;9366944
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Otros;0
+4 Micro;4.7 Transaccional - Independiente;12;2017;Vivienda;SubsidioEntregado;11803472
+2 Emp Medio;2.2 Silver;10;2018;Educación y Cultura;ARTES;166600
+4 Micro;4.2 Trans. Mas de 100 Trab.;2;2018;RyT;Club la Colina;562688
+4 Micro;4.7 Transaccional - Independiente;7;2017;MS;DROGUERIAS;1292016
+4 Micro;4.5 Transaccional;5;2018;RyT;Hotel Peñalisa;2302646
+1 Emp Grandes;1.1 Platinum;9;2018;RyT;Club El Cubo;36494455
+5 Micro;5.1 Colsubsidio;7;2018;RyT;Piscilago;0
+4 Micro;4.5 Transaccional;7;2018;RyT;Hotel Peñalisa;26438748
+2 Emp Medio;2.2 Silver;11;2018;Educación y Cultura;TEATRO;52784354
+4 Micro;4.7 Transaccional - Independiente;9;2018;RyT;Programas Deportivos;256000
+3 Empresas Pymes;3.1 VIP;8;2018;RyT;Hotel Alcaravan;541387
+2 Emp Medio;2.2 Silver;2;2018;RyT;Eventos y Convenciones;24206303
+2 Emp Medio;2.2 Silver;2;2018;RyT;Programas Deportivos;3901164
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;10;2017;MS;DROGUERIAS;3076278
+1 Emp Grandes;1.1 Platinum;3;2018;RyT;Club Bellavista;11814258
+4 Micro;4.1 Estándar;5;2018;RyT;Eventos y Convenciones;5800444
+1 Emp Grandes;1.2 Premium;9;2018;RyT;Club El Cubo;41203391
+1 Emp Grandes;1.2 Premium;1;2018;RyT;Hotel Paipa;83333
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;10;2018;Salud;;11979200
+4 Micro;4.5 Transaccional;7;2018;RyT;Club El Cubo;55953797
+6 Otros;No Afiliada;8;2017;Vivienda;SubsidioEntregado;13938327077
+3 Empresas Pymes;3.2 VIP Estándar;4;2018;RyT;Club El Cubo;53528164
+6 Otros;No Afiliada;9;2018;RyT;Otros;18648371
+3 Empresas Pymes;3.2 VIP Estándar;8;2018;Educación y Cultura;Teatro;5476580
+2 Emp Medio;2.1 Gold;5;2018;AyB;CAFÉ DE LAS LETRAS CALLE 26;4992068
+3 Empresas Pymes;3.2 VIP Estándar;3;2018;RyT;Club Bellavista;29431429
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;RyT;Hotel Paipa;6134530
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;2;2018;RyT;Piscilago;4784452
+2 Emp Medio;2.2 Silver;4;2018;RyT;Club El Cubo;39767911
+6 Otros;No afiliada;6;2017;MS;SUPERMERCADOS;109155345
+1 Emp Grandes;1.1 Platinum;11;2018;RyT;Club la Colina;55860304
+2 Emp Medio;2.1 Gold;8;2018;Educación y Cultura;ARTES;700200
+5 Micro;5.1 Colsubsidio;1;2017;RyT;;0
+3 Empresas Pymes;3.2 VIP Estándar;11;2018;RyT;Hotel Bosques de Athan;24906377
+3 Empresas Pymes;3.2 VIP Estándar;1;2018;RyT;Club Bellavista;19151490
+2 Emp Medio;2.2 Silver;5;2018;MS;SUPERMERCADOS;5831404851
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Programas Deportivos;62707012
+2 Emp Medio;2.1 Gold;5;2018;Salud;;21214100
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Hotel Bosques de Athan;449444
+4 Micro;4.5 Transaccional;8;2017;Vivienda;SubsidioAsignado;516401900
+1 Emp Grandes;1.2 Premium;8;2018;RyT;Club Bellavista;46392170
+5 Micro;5.1 Colsubsidio;8;2018;AyB;CATERING;12968990
+6 Otros;No Afiliada;3;2018;RyT;Eventos y Convenciones;16322325
+1 Emp Grandes;1.2 Premium;10;2018;RyT;Hotel Peñalisa;14505138
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;11;2018;Educación y Cultura;Teatro;19096400
+3 Empresas Pymes;3.1 VIP;9;2018;Salud;;37678100
+6 Otros;No Afiliada;5;2018;RyT;Otros;21907373
+2 Emp Medio;2.2 Silver;7;2017;RyT;;374850
+1 Emp Grandes;1.1 Platinum;7;2018;RyT;Club El Cubo;40047795
+2 Emp Medio;2.2 Silver;4;2018;RyT;Otros;454090
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;8;2018;MS;SUPERMERCADOS;76939118
+4 Micro;4.7 Transaccional - Independiente;10;2018;MS;SUPERMERCADOS;1975112
+6 Otros;No Afiliada;9;2018;RyT;Piscilago;386580336
+4 Micro;4.5 Transaccional;9;2018;Salud;;265800
+4 Micro;4.3 Trans.Juridica Ent. 11 a 99 Trab.;7;2018;RyT;Piscilago;16509435
+2 Emp Medio;2.2 Silver;10;2018;RyT;Club El Cubo;37475002
+6 Otros;No Afiliada;3;2018;RyT;Club la Colina;22680582
+1 Emp Grandes;1.2 Premium;4;2018;Salud;;15976400
+6 Otros;No Afiliada;4;2017;Vivienda;Fecha Opcion;418285536
+4 Micro;4.1 Estándar;5;2018;RyT;Piscilago;112465032
+4 Micro;4.5 Transaccional;5;2018;RyT;Club El Cubo;142087712
+4 Micro;4.4 Trans.Natural Ent. 11 a 99 Trab.;5;2017;Vivienda;SubsidioAsignado;162297740
+6 Otros;No afiliada;4;2017;MS;SUPERMERCADOS;96537451
+4 Micro;4.1 Estándar;2;2018;Salud;;11700200
+2 Emp Medio;2.1 Gold;3;2018;RyT;Club El Cubo;48398176
+3 Empresas Pymes;3.2 VIP Estándar;9;2018;RyT;Club la Colina;8784025
+4 Micro;4.7 Transaccional - Independiente;10;2018;RyT;Club Calle 195;1260504
+4 Micro;4.7 Transaccional - Independiente;3;2017;Vivienda;SubsidioEntregado;8376550
